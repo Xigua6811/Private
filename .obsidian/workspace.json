@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "5993a479ffd4997c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7339e369bd99723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6c0d055a5226417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vacancy 2026 for R&D center.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vacancy 2026 for R&D center"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b48ac1ad3fc774f",
+    "type": "split",
+    "children": [
+      {
+        "id": "df41fe535b39cada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7fe6912514880c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8842fdbebdb8774c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15c08c3e023c80ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90012d51782e5c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a172871c331254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e7681d91b67cab0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vacancy 2026 for R&D center.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vacancy 2026 for R&D center"
+            }
+          },
+          {
+            "id": "8cd489aae676bf3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MM of Thomas Mar 31.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MM of Thomas Mar 31"
+            }
+          },
+          {
+            "id": "27307ebf75554f87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4da360c8dd32708d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5ad520b57f7e3131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MM of Thomas Mar 31.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MM of Thomas Mar 31"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d6c0d055a5226417",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "Vacancy 2026 for R&D center.md",
+    "MM of Thomas Mar 31.md",
+    "To do list.md",
+    "2026-04-02.md",
+    "Pasted image 20260402171606.png",
+    "Welcome.md"
+  ]
+}
