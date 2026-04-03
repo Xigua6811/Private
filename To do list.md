@@ -16,8 +16,9 @@
 ### **Week 2
 
 - [ ] 
-- [ ] Introduction Briefing ⏳ 2026-04-07 10am
+- [ ] Introduction Briefing Legal ⏳ 2026-04-07 10am
 - [ ] Introduction Briefing ⏳ 2026-04-07 4pm
+- [ ] Introduction Briefing, Zhong Yong⏳ 2026-04-07 5pm
 - [ ] Water business townhall ⏳ 2026-04-08 18pm
 - [ ] Company townhall ⏳ 2026-04-09 5pm
 - [ ]
