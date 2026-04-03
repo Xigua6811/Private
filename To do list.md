@@ -11,7 +11,7 @@
 - [ ] ==Report email to Saleh and Thomas 📅 2026-04-03 
 - [ ] ==Introduction Briefing ⏳ 2026-04-03 11am==
 - [ ] ==Introduction Briefing ⏳ 2026-04-03 2:30pm
-- [ ] 
+- [ ] Read KPIs for Peter and Zhao Song
 
 ### **Week 2
 
