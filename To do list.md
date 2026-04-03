@@ -5,12 +5,12 @@
 ### **Week 1
 
 - [ ] ==Read innovation road map ⏳ 2026-04-03 
-- [ ] Get access of ACWAnet, email sent
-- [ ] Get access of ACWASim, email sent
-- [ ] Connect to Ratul ⏳ 2026-04-03 
+- [x] Get access of ACWAnet, email sent ✅ 2026-04-03
+- [x] Get access of ACWASim, email sent ✅ 2026-04-03
+- [ ] Connect to Ratul, Li Jindong ⏳ 2026-04-03 
 - [ ] ==Report email to Saleh and Thomas 📅 2026-04-03 
-- [ ] ==Introduction Briefing ⏳ 2026-04-03 11am==
-- [ ] ==Introduction Briefing ⏳ 2026-04-03 2:30pm
+- [x] ==Introduction Briefing Legal⏳ 2026-04-03 11am== ✅ 2026-04-03
+- [ ] ==Introduction Briefing  ⏳ 2026-04-03 2:30pm
 - [ ] Read KPIs for Peter and Zhao Song
 
 ### **Week 2
