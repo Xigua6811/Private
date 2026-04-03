@@ -11,10 +11,14 @@
             "id": "a0479dbbfa7d8fb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OB更新方法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "OB更新方法"
             }
           }
         ]
@@ -164,6 +168,7 @@
   },
   "active": "9161cdd9510136d2",
   "lastOpenFiles": [
+    "OB更新方法.md",
     "Vacancy 2026 for R&D center.md"
   ]
 }
