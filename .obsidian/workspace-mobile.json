@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "470e3fc4625cbe10",
+    "id": "099580b25370aa53",
     "type": "split",
     "children": [
       {
-        "id": "a10c3cf525e9c71d",
+        "id": "5659258304e7faf8",
         "type": "tabs",
         "children": [
           {
-            "id": "f4630d3d54e12ee1",
+            "id": "a0479dbbfa7d8fb3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "318ed1a665434a01",
+    "id": "382036ed3f91075a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "465a3bead55ab228",
+        "id": "9161cdd9510136d2",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "9e067b4e164cd84d",
+        "id": "da98f147fa2d9a4d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +57,7 @@
         }
       },
       {
-        "id": "2edf5ca57046c9b8",
+        "id": "cc825b39e96ff24f",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +72,7 @@
         }
       },
       {
-        "id": "97130e7d1332f784",
+        "id": "bd11d4da54a4ed7c",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +86,7 @@
         }
       },
       {
-        "id": "c50693c5986ca9b1",
+        "id": "c9626d905e39c857",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,16 +99,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "72c40ca2f1c348e1",
+    "id": "be1d98aaa2b7f883",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "56bba73dbac5c58a",
+        "id": "f4e3ad107c200001",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WORK/KPI Discussion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,12 +121,11 @@
         }
       },
       {
-        "id": "a66b424618f5e600",
+        "id": "6010cd2cfb3fafaa",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "WORK/KPI Discussion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -136,12 +134,11 @@
         }
       },
       {
-        "id": "d741e4b9aef65676",
+        "id": "9b5da7de25ad68a5",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "WORK/KPI Discussion.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,13 +162,8 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f4630d3d54e12ee1",
+  "active": "9161cdd9510136d2",
   "lastOpenFiles": [
-    "WORK/KPI Discussion.md",
-    "Vacancy 2026 for R&D center.md",
-    "To do list.md",
-    "MM of Thomas Mar 31.md",
-    "Legal Function Discussion Apr 3.md",
-    "KPI Discussion.md"
+    "Vacancy 2026 for R&D center.md"
   ]
 }
