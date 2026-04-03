@@ -5,8 +5,8 @@
 ### **Week 1
 
 - [ ] ==Read innovation road map ⏳ 2026-04-03 
-- [ ] Get access of ACWAnet
-- [ ] Get access of ACWASim
+- [ ] Get access of ACWAnet, email sent
+- [ ] Get access of ACWASim, email sent
 - [ ] Connect to Ratul ⏳ 2026-04-03 
 - [ ] ==Report email to Saleh and Thomas 📅 2026-04-03 
 - [ ] ==Introduction Briefing ⏳ 2026-04-03 11am==
