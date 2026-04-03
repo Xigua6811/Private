@@ -8,6 +8,7 @@
 - [x] Get access of ACWAnet, email sent ✅ 2026-04-03
 - [x] Get access of ACWASim, email sent ✅ 2026-04-03
 - [ ] Connect to Ratul, Li Jindong ⏳ 2026-04-03 
+- [ ] ACWAnet ACWAsim talk with Thomas ⏳ 2026-04-03 1:30pm
 - [ ] ==Report email to Saleh and Thomas 📅 2026-04-03 
 - [x] ==Introduction Briefing Legal⏳ 2026-04-03 11am== ✅ 2026-04-03
 - [ ] ==Introduction Briefing  ⏳ 2026-04-03 2:30pm
