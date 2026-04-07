@@ -4,19 +4,23 @@
 
 ### **Week 1
 
-- [ ] ==Read innovation road map ⏳ 2026-04-03 
+- [ ] 
 - [x] Get access of ACWAnet, email sent ✅ 2026-04-03
 - [x] Get access of ACWASim, email sent ✅ 2026-04-03
-- [ ] Connect to Ratul, Li Jindong ⏳ 2026-04-03 
+
 - [x] ACWAnet ACWAsim talk with Thomas ⏳ 2026-04-03 1:30pm ✅ 2026-04-03
 - [ ] ==Report email to Saleh and Thomas 📅 2026-04-03 
 - [x] ==Introduction Briefing Legal⏳ 2026-04-03 11am== ✅ 2026-04-03
 - [ ] ==Introduction Briefing  ⏳ 2026-04-03 2:30pm
-- [ ] Read KPIs for Peter and Zhao Song
+
 
 ### **Week 2
 
-- [ ] Talk with Thomas about Shaohui, Wei Lu
+- [ ] Read KPIs for Peter and Zhao Song
+- [ ] ==Talk with Thomas about Shaohui, Wei Lu==
+- [ ] ==Connect to Li Jindong ⏳ 2026-04-07 ==
+- [ ] ==Connect to Ratul, Li Jindong ⏳ 2026-04-07 ==
+- [ ] ==Read innovation road map ⏳ 2026-04-03 
 - [ ] Introduction Briefing Legal ⏳ 2026-04-07 10am
 - [ ] Introduction Briefing ⏳ 2026-04-07 4pm
 - [ ] Introduction Briefing, Zhong Yong⏳ 2026-04-07 5pm
