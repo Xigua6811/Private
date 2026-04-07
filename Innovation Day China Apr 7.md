@@ -8,15 +8,15 @@
 
 ### 2. **Innovation Management Approach**
 
-- Innovation pipeline is managed by **Technology Readiness Levels (TRL/TL)**:
-    - **Low TRL (TL3–TL5)**: Maintain relationships, sign NDAs, monitor progress.
-    - **TL6+**: Actively engage (pilot plants, partnerships, investment).
+- ==Innovation pipeline is managed by **Technology Readiness Levels (TRL/TL)**:==
+    - ==**Low TRL (TL3–TL5)**: Maintain relationships, sign NDAs, monitor progress.==
+    - ==**TL6+**: Actively engage (pilot plants, partnerships, investment).==
 - Goal: **Stay close to high‑potential ideas early** so ACWA can act quickly when they mature.
 - Example: a **low‑TRL ammonia technology** from the US is monitored but not actively deployed yet.
-- Monitoring includes:
-    - Funding status
-    - Partners involved
-    - Technology progress
+- ==Monitoring includes:==
+    - ==Funding status==
+    - ==Partners involved==
+    - ==Technology progress==
 - If no potential → disengage; if high potential → move fast.
 
 ### 3. **Strategic Geographic Focus**
@@ -45,7 +45,7 @@
 **Two immediate priorities:**
 
 1. **Define innovation initiatives in China**
-    - Robotics identified as a top priority.
+    - ==Robotics identified as a top priority.==
 2. **Organize “Innovation Days – China (Shanghai)”**
     - Signature ACWA innovation event.
 
@@ -62,29 +62,32 @@
 
 ### 7. **Technology Gaps & Focus Areas**
 
-- **Biggest internal gap**: Industrial AI.
+- ==**Biggest internal gap**: Industrial AI.==
 - Strength areas already strong:
     - Solar PV
     - Batteries (BYD, CATL, sodium-ion)
     - Hydrogen
-- China is critical for:
-    - Robotics
-    - Industrial AI
-    - Advanced energy storage (flow batteries, sodium batteries)
+- ==China is critical for:==
+    - ==Robotics==
+    - ==Industrial AI==
+    - ==Advanced energy storage (flow batteries, sodium batteries)==
 
 ### 8. **Innovation Days – Key Design Principles**
 
-- Event built around a **people-driven agenda**:
-    - Topics defined first
-    - Then select best speakers (industry + top universities)
-- Mix of:
-    - Large industry players
-    - Academia
-    - Start-ups (via competitions or challenges)
-- Robotics should be **visible and experiential**, creating the image:
+- ==Event built around a **people-driven agenda**:==
+    - ==Topics defined first==
+    - ==Then select best speakers (industry + top universities)==
+- ==Mix of:==
+    - ==Large industry players==
+    - ==Academia==
+    - ==Start-ups (via competitions or challenges)==
+- ==Robotics should be **visible and experiential**, creating the image:==
     
     > _ACWA = future-ready, leading in industrial AI and robotics_
+    > 
+    ==托马斯在这里强调了，在整个的innovation day里面，industrial ai是最重要的，其次是desal。==
     
+    ==托马斯希望在4月21号他来到中国的时候，能够跟宇树机器人进行技术对接。这是目前比较紧急的一件事情，他希望宇树机器人这样优秀的企业，能够在innovation day China里面扮演重要的角色，比如主题演讲。
 
 ### 9. **Strategic Objectives (Reaffirmed)**
 
@@ -103,8 +106,3 @@
     - Execution plan
 - Follow-up meetings scheduled to finalize the China innovation roadmap.
 
-If you want, I can:
-
-- Turn this into a **one-page executive brief**
-- Extract **explicit action items with owners**
-- Summarize **China Innovation Strategy only**
