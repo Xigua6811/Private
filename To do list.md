@@ -18,7 +18,8 @@
 
 - [ ] Read KPIs for Peter and Zhao Song
 - [ ] ==Talk with Thomas about Shaohui, Wei Lu==
-- [ ] ==Connect to Ratul, Li Jindong ⏳ 2026-04-03 ==
+- [ ] ==Connect to Li Jindong ⏳ 2026-04-07 ==
+- [ ] ==Connect to Ratul, Li Jindong ⏳ 2026-04-07 ==
 - [ ] ==Read innovation road map ⏳ 2026-04-03 
 - [ ] Introduction Briefing Legal ⏳ 2026-04-07 10am
 - [ ] Introduction Briefing ⏳ 2026-04-07 4pm
