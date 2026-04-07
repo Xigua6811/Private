@@ -3,7 +3,7 @@
 ### 1. **Meeting Objective**
 
 - This session was a **high‑level introduction** to the desalination innovation work (not a deep dive).
-- A **detailed China Innovation Strategy and project review** is planned for the following day.
+
 - Purpose: align on **R&D focus, boundaries with BD, and next steps in China**.
 
 ### 2. **Four Core R&D Pillars (Desalination Innovation)**
@@ -46,14 +46,14 @@
 2. Optimize **pretreatment** under China‑specific environments.
 3. Bring a **US startup technology** to the Shanghai R&D Center for testing.
 
-**Shanghai R&D Center – 3 Focus Directions (from Harry Wu & BD discussion):**
+==**Shanghai R&D Center – 3 Focus Directions (from Harry Wu & BD discussion):**
 
 1. **Product localization**
     - RO and **UF membrane** research (not RO only).
 2. **AI projects**
     - Local AI applications for operations and optimization.
 3. **Water environment research**
-    - Collect and analyze operational data from Chinese plants.
+    - Collect and analyze operational data from Chinese plants.==
 
 ### 4. **Position on BD vs Innovation R&D**
 
@@ -67,22 +67,22 @@
 
 ### 5. **Three Core Proposals for China (Repeated & Reconfirmed)**
 
-1. **Access an existing desalination plant in China**
-2. **Install Aqua SIM in China**
-    - Use local cloud (Alibaba / AWS China).
-    - Purpose:
-        - Analyze real plant data
-        - Support ISDMU and guide BD on China‑specific technology choices
-3. **Pilot cold ceramic membrane technology**
-    - On a China project site.
-    - Improve pretreatment and overall plant efficiency.
-    - Strategic advantage for BD bids.
+1. ==**Access an existing desalination plant in China**==
+2. ==**Install Aqua SIM in China**==
+    - ==Use local cloud (Alibaba / AWS China).==
+    - ==Purpose:==
+        - ==Analyze real plant data==
+        - ==Support ISDMU and guide BD on China‑specific technology choices==
+3. ==**Pilot cold ceramic membrane technology**==
+    - ==On a China project site.==
+    - ==Improve pretreatment and overall plant efficiency.==
+    - ==Strategic advantage for BD bids.==
 
 ### 6. **ISDMU / Tianjin Collaboration**
 
 - Existing agreements:
     - Old agreement (~2 years ago)
-    - New **joint lab agreement**
+    - ==New **joint lab agreement**
 - Need a **separate clarification meeting** with Harry to explain:
     - What Innovation can help with
     - What Innovation will not fund or support
@@ -100,7 +100,7 @@
 - Alternative approach:
     - Use **external institutions / project sites** to reduce capex.
 - Harry requested:
-    - Clear introduction to **cost lab capabilities, equipment, and roadmap**.
+    - Clear introduction to **Kaust lab capabilities, equipment, and roadmap**.
 
 ### 8. **Chinese Vendor Strategy**
 
@@ -108,25 +108,20 @@
     - Tested mainly in **Saudi Arabia** (cheaper + faster).
 - Known vendors: Vontron, CSM, Cyberwave, Huaxin (latest).
 - Conclusion:
-    - **No need to test membranes in China** unless unique value exists.
-    - Send samples to Saudi instead.
+    - ==**No need to test membranes in China** unless unique value exists.==
+    - ==Send samples to Saudi instead.==
 
 ### 9. **Next Steps & Actions**
 
 - Strategy presentation (budget + org chart) to be shared.
 - Further meeting with PD and BD after strategy alignment.
 - Harry plans **business trip to Tianjin** to follow up ISDMU issues.
-- **Visit to KAUST & Dubai strongly recommended**
-    - Full week
-    - Includes desal plant visits for hands‑on understanding.
+- ==**Visit to KAUST & Dubai strongly recommended**==
+    - ==Full week==
+    - ==Includes desal plant visits for hands‑on understanding.==
 
 ### 10. **Key Message (Reinforced)**
 
 > Innovation exists to **create measurable value**, not just maintain relationships.  
 > BD and Innovation have different roles, funding logic, and success metrics.
 
-If you want next, I can:
-
-- Extract **explicit action items with owners**
-- Create a **one‑page executive brief**
-- Summarize **only China R&D strategy**
