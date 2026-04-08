@@ -23,8 +23,8 @@
 - [x] ==Connect to Ratul, Li Jindong ⏳ 2026-04-07 == ✅ 2026-04-07
 - [ ] ==Read innovation road map ⏳ 2026-04-03 
 - [x] Read Thomas China strategy ⏳ 2026-04-08 ✅ 2026-04-08
-- [ ] BESS discussion with Thomas and headquater engineer ⏳ 2026-04-08 
-- [ ] China strategy discussion with Thomas ⏳ 2026-04-08 
+- [x] BESS discussion with Thomas and headquater engineer ⏳ 2026-04-08 
+- [x] China strategy discussion with Thomas ⏳ 2026-04-08 
 - [ ] Introduction Briefing Assets⏳ 2026-04-07 10am
 - [ ] Introduction Briefing ⏳ 2026-04-07 4pm
 - [x] Introduction Briefing, Zhong Yong⏳ 2026-04-07 5pm ✅ 2026-04-07
