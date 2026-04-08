@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a0a07597486103",
+        "id": "03606a64b7f965c5",
         "type": "tabs",
         "children": [
           {
-            "id": "becd3c17325b9afd",
+            "id": "3bd51ab9e2a1f271",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ACWA Power 中国创新与研发战略.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "ACWA Power 中国创新与研发战略"
             }
           }
         ]
@@ -162,8 +166,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "becd3c17325b9afd",
+  "active": "3bd51ab9e2a1f271",
   "lastOpenFiles": [
+    "/To do list.md",
+    "/海水淡化讨论.md",
     "ACWA Power 中国创新与研发战略.md",
     "海水淡化讨论.md",
     "To do list.md",
@@ -173,7 +179,6 @@
     "/Innovation Day China Apr 7.md",
     "/Desalination Innovation Apr 7.md",
     "KPI Discussion.md",
-    "/To do list.md",
     "/KPI Discussion.md",
     "/Budget and Cost.md",
     "OB更新方法.md",
