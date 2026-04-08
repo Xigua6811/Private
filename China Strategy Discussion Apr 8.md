@@ -48,10 +48,10 @@ Especially for the **Innovation Center / pilot plants**.
 
 Harry must:
 
-- Make it **explicit and concrete**:
+- ==Make it **explicit and concrete**:
     - Is the pilot expected by **BD** or by **Saleh**?
     - **Who pays** for it?
-    - Is it **Innovation budget** or business-funded?
+    - Is it **Innovation budget** or business-funded?==
 - Stop abstract discussions; move to **decision mode**:
     - “We bring X technology”
     - “This is the bill”
@@ -91,7 +91,7 @@ Harry is not expected to “just hire one expert”.
 
 Instead, Thomas wants:
 
-- **Creative resourcing**, including:
+- ==**Creative resourcing**, including:==
     - Tier‑1 companies
     - R&D partnerships
     - Local programming partners (low-cost)
