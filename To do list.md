@@ -17,10 +17,14 @@
 ### **Week 2
 
 - [ ] Read KPIs for Peter and Zhao Song
+- [ ] Talk with Bruce, topics: ISDMU; Wei Lu and Shaozhou, KPIs and future R&D projects, Budget, cooperation with TS team
 - [ ] ==Talk with Thomas about Shaohui, Wei Lu==
 - [x] ==Connect to Li Jindong ⏳ 2026-04-07 == ✅ 2026-04-07
 - [x] ==Connect to Ratul, Li Jindong ⏳ 2026-04-07 == ✅ 2026-04-07
 - [ ] ==Read innovation road map ⏳ 2026-04-03 
+- [ ] Read Thomas China strategy ⏳ 2026-04-08 
+- [ ] BESS discussion with Thomas and headquater engineer ⏳ 2026-04-08 
+- [ ] China strategy discussion with Thomas ⏳ 2026-04-08 
 - [ ] Introduction Briefing Assets⏳ 2026-04-07 10am
 - [ ] Introduction Briefing ⏳ 2026-04-07 4pm
 - [x] Introduction Briefing, Zhong Yong⏳ 2026-04-07 5pm ✅ 2026-04-07
