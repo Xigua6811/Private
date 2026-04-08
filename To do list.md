@@ -17,7 +17,7 @@
 ### **Week 2
 
 - [ ] Read KPIs for Peter and Zhao Song
-- [ ] Talk with Bruce, topics: ISDMU; Wei Lu and Shaozhou, KPIs and future R&D projects, Budget, cooperation with TS team
+- [x] Talk with Bruce, topics: ISDMU; Wei Lu and Shaozhou, KPIs and future R&D projects, Budget, cooperation with TS team ✅ 2026-04-08
 - [ ] ==Talk with Thomas about Shaohui, Wei Lu==
 - [x] ==Connect to Li Jindong ⏳ 2026-04-07 == ✅ 2026-04-07
 - [x] ==Connect to Ratul, Li Jindong ⏳ 2026-04-07 == ✅ 2026-04-07
