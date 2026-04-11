@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "China Innovation Strategy Apr 8"
             }
+          },
+          {
+            "id": "e9feaab81198f714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desalination Innovation Apr 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desalination Innovation Apr 7"
+            }
+          },
+          {
+            "id": "cfb62e4f96eab98a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "海水淡化讨论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "海水淡化讨论"
+            }
+          },
+          {
+            "id": "9efb6f3af3f90989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "天津海淡所合作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天津海淡所合作"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,21 +210,24 @@
       "bases:新建数据库": false
     }
   },
-  "active": "1735e25cbf70cdb2",
+  "active": "9efb6f3af3f90989",
   "lastOpenFiles": [
-    "OB更新方法.md",
+    "海水淡化讨论.md",
+    "天津海淡所合作.md",
+    "清华云储.md",
+    "Desalination Innovation Apr 7.md",
+    "差旅相关.md",
+    "Budget and Cost.md",
     "China Innovation Strategy Apr 8.md",
+    "OB更新方法.md",
     "To do list.md",
     "ACWA Power 中国创新与研发战略.md",
-    "海水淡化讨论.md",
-    "Desalination Innovation Apr 7.md",
     "China Strategy Discussion Apr 8.md",
     "Vacancy 2026 for R&D center.md",
     "/China Strategy Discussion Apr 8.md",
     "/China Innovation Strategy Apr 8.md",
     "/To do list.md",
     "/海水淡化讨论.md",
-    "Budget and Cost.md",
     "Innovation Day China Apr 7.md",
     "/Innovation Day China Apr 7.md",
     "/Desalination Innovation Apr 7.md",
