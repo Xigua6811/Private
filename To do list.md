@@ -16,7 +16,7 @@
 
 ### **Week 2
 
-- [ ] Read KPIs for Peter and Zhao Song
+- [x] Read KPIs for Peter and Zhao Song
 - [x] Talk with Bruce, topics: ISDMU; Wei Lu and Shaozhou, KPIs and future R&D projects, Budget, cooperation with TS team ✅ 2026-04-08
 - [ ] ==Talk with Thomas about Shaohui, Wei Lu==
 - [x] ==Connect to Li Jindong ⏳ 2026-04-07 == ✅ 2026-04-07
@@ -30,6 +30,9 @@
 - [x] Introduction Briefing, Zhong Yong⏳ 2026-04-07 5pm ✅ 2026-04-07
 - [ ] Water business townhall ⏳ 2026-04-08 18pm
 - [ ] Company townhall ⏳ 2026-04-09 5pm
+- [ ] Liaoning governor visiting and lunch
+- [ ] CQC visiting
+- [ ] 协合visiting
 - [ ]
 
 ### **Week 3
