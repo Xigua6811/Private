@@ -30,9 +30,9 @@
 - [x] Introduction Briefing, Zhong Yong⏳ 2026-04-07 5pm ✅ 2026-04-07
 - [ ] Water business townhall ⏳ 2026-04-08 18pm
 - [ ] Company townhall ⏳ 2026-04-09 5pm
-- [ ] Liaoning governor visiting and lunch
-- [ ] CQC visiting
-- [ ] 协合visiting
+- [x] Liaoning governor visiting and lunch
+- [x] CQC visiting
+- [x] 协合visiting
 - [ ]
 
 ### **Week 3
