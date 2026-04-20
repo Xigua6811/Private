@@ -37,12 +37,13 @@
 
 ### **Week 3
 
-- [ ] Read innovation road map ⏳ 2026-04-03 
+- [ ] 
 - [ ] 
 
 ### **Week 4
 
-- [ ] Read innovation road map ⏳ 2026-04-03 
+- [ ] Globe Digital Team visit Waigaoqiao  ⏳Apr 28 morning
+- [ ] 
 - [ ] 
 
 ___
