@@ -1,6 +1,5 @@
 @echo off  
-git config --global core.autocrlf true  
-git pull  
+git pull --no-rebase origin main  
 git add .  
-git commit -m "auto sync Mon 04/20/2026 19:04:24.12"  
-git push 
+git commit -m "auto sync"  
+git push origin main 
