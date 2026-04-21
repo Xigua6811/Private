@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260420Innovation Day Discussion.md",
+                "file": "07-Innovation Day/260407Innovation Day China Discussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260420Innovation Day Discussion"
+              "title": "260407Innovation Day China Discussion"
             }
           }
         ],
@@ -195,9 +195,13 @@
   "active": "94d22529c5b7d2c9",
   "lastOpenFiles": [
     "01-Desal/260427大港新泉海淡厂.md",
+    "20260420Innovation Day Discussion.md",
+    "07-Innovation Day/260420Innovation Day Discussion.md",
+    "07-Innovation Day/260407Innovation Day China Discussion.md",
+    "07-Innovation Day",
+    "06-Management/260420DRC Meeting on GH2.md",
     "260420DRC Meeting on GH2.md",
     "sync.bat",
-    "20260420Innovation Day Discussion.md",
     "06-Management/260420Leadership Meeting MOM.md",
     "06-Management/260416Project Code.md",
     "03-Wind/260416协和新能源拜访Apr 16.md",
@@ -221,8 +225,6 @@
     "01-Desal/260407Desalination Innovation Apr 7.md",
     "01-Desal/260406海水淡化讨论.md",
     "01-Desal",
-    "差旅相关.md",
-    "天津海淡所合作大纲Apr 10.md",
-    "清华云储方案Apr 10.md"
+    "差旅相关.md"
   ]
 }
