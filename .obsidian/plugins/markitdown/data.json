@@ -1,0 +1,26 @@
+{
+  "pythonPath": "C:\\Users\\xwu\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "enablePlugins": false,
+  "pluginArgs": [],
+  "docintelEndpoint": "",
+  "outputPath": "",
+  "imageExtractionEnabled": false,
+  "imageSubfolderTemplate": "{filename}-images",
+  "enableBatchProgress": true,
+  "enableContextMenu": true,
+  "enableRecursiveConversion": false,
+  "outputFilenameTemplate": "{filename}",
+  "enableDragDrop": true,
+  "enableAutoFrontmatter": false,
+  "autoTags": "",
+  "conversionHistory": [
+    {
+      "inputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\tmp_1776748199309_ACWA_POWER_Flexible_Benefits_Guidelines_China.pdf",
+      "outputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\ACWA POWER Flexible Benefits Guidelines China.md",
+      "timestamp": "2026-04-21T05:10:01.629Z",
+      "success": true,
+      "processingTimeMs": 2309,
+      "imagesExtracted": 0
+    }
+  ]
+}
