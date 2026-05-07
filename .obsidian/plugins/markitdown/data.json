@@ -15,6 +15,14 @@
   "autoTags": "",
   "conversionHistory": [
     {
+      "inputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\tmp_1778065631093_Corporate_Finance_Deck_Apr-26_v2-APSTC.pptx",
+      "outputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\Corporate Finance Deck Apr-26 v2-APSTC.md",
+      "timestamp": "2026-05-06T11:07:14.084Z",
+      "success": true,
+      "processingTimeMs": 2959,
+      "imagesExtracted": 0
+    },
+    {
       "inputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\tmp_1776748199309_ACWA_POWER_Flexible_Benefits_Guidelines_China.pdf",
       "outputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\ACWA POWER Flexible Benefits Guidelines China.md",
       "timestamp": "2026-04-21T05:10:01.629Z",
