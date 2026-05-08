@@ -119,19 +119,19 @@ ACWA 中国创新中心（CIC）作为区域卓越中心，与 KAUST、KACST 等
 
 ### 6.2 2026 年项目时间表与预算（按领域）
 
-| 领域    | 项目                           | 负责人                                   | 预算 (M) | 时间     |     |     |
-| ----- | ---------------------------- | ------------------------------------- | ------ | ------ | --- | --- |
-| 工业 AI | 机器人挑战赛                       | Sarah / Harry                         | 0.7    | M1–M10 |     |     |
-| 海水淡化  | 突破性海水淡化技术到 CIC               | Ratul / Harry                         | 1.5    | M1–M10 |     |     |
-| 海水淡化  | ==海水预处理中试（ISDMU）==           | ==ZhaoTian / Khan / Harry==           | 1.0    | M1–M10 |     |     |
-| 可再生能源 | ==AI 辅助光伏功率预测系统==            | Enzo / Leiliang / Harry               | 0.5    | M1–M10 |     |     |
-| 可再生能源 | 光伏验证中试（CQC）                  | Qiao / Song / ZhaoTian / Harry        | 1.0    | M1–M10 |     |     |
-| 储能    | ==新型电池测试（CATL / EnerVenue）== | Christos / Harry                      | 0.2    | M1–M10 |     |     |
-| 储能    | ==先进 BESS EMS（清华大学）==        | Christos / Harry                      | 1.0    | M1–M10 |     |     |
-| 绿氢    | 内部混合电解槽测试平台                  | Qiao / Song / Miao / Leiliang / Harry | 1.0    | M1–M10 |     |     |
-| 绿氢    | 高性能电解研究（SARI）                | Leiliang / Miao / Harry               | 1.0    | M1–M10 |     |     |
-| 工业 AI | 无人机辅助光伏自动巡检                  | Enzo / Qiao / Song / Harry            | 1.0    | M1–M10 |     |     |
-| 海水淡化  | 先进膜研究（天津大学）                  | Qiao / Song / Leiliang / Harry        | 1.0    | M1–M10 |     |     |
+| 领域    | 项目                           | 负责人                                   | 预算 (M) | 时间     |     |     |     |
+| ----- | ---------------------------- | ------------------------------------- | ------ | ------ | --- | --- | --- |
+| 工业 AI | 机器人挑战赛                       | Sarah / Harry                         | 0.7    | M1–M10 |     |     |     |
+| 海水淡化  | 突破性海水淡化技术到 CIC               | Ratul / Harry                         | 1.5    | M1–M10 |     |     |     |
+| 海水淡化  | ==海水预处理中试（ISDMU）==           | ==ZhaoTian / Khan / Harry==           | 1.0    | M1–M10 |     |     |     |
+| 可再生能源 | ==AI 辅助光伏功率预测系统==            | Enzo / Leiliang / Harry               | 0.5    | M1–M10 |     |     |     |
+| 可再生能源 | 光伏验证中试（CQC）                  | Qiao / Song / ZhaoTian / Harry        | 1.0    | M1–M10 |     |     |     |
+| 储能    | ==新型电池测试（CATL / EnerVenue）== | Christos / Harry                      | 0.2    | M1–M10 |     |     |     |
+| 储能    | ==先进 BESS EMS（清华大学）==        | Christos / Harry                      | 1.0    | M1–M10 |     |     |     |
+| 绿氢    | 内部混合电解槽测试平台                  | Qiao / Song / Miao / Leiliang / Harry | 1.0    | M1–M10 |     |     |     |
+| 绿氢    | 高性能电解研究（SARI）                | Leiliang / Miao / Harry               | 1.0    | M1–M10 |     |     |     |
+| 工业 AI | 无人机辅助光伏自动巡检                  | Enzo / Qiao / Song / Harry            | 1.0    | M1–M10 |     |     |     |
+| 海水淡化  | 先进膜研究（天津大学）                  | Qiao / Song / Leiliang / Harry        | 1.0    | M1–M10 |     |     |     |
 
 **项目总数**：11  
 **总预算**：**9.9M**（约 1000 万美元）
