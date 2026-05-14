@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-PV/260513光伏实验室.md",
+                "file": "06-Management/Budget and Cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260513光伏实验室"
+              "title": "Budget and Cost"
             }
           },
           {
@@ -440,8 +440,8 @@
   },
   "active": "649e38181a288d28",
   "lastOpenFiles": [
-    "02-PV/260422蓝旭机器人交流.md",
     "02-PV/260513光伏实验室.md",
+    "02-PV/260422蓝旭机器人交流.md",
     "06-Management/Budget and Cost.md",
     "Pasted image 20260512094122.png",
     "08-General/China Innovation Strategy Apr 8.md",
