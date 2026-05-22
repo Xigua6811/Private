@@ -106,6 +106,33 @@
 |  TDD新订单    |      801,886.80  |
 |  合计        |  6,622,641.52    |
 
+### Signed Contracts and Revenue Forecast
+
+| Item            | Signed Contract Value | Revenue Forecast | Remark |
+|-----------------|-----------------------|------------------|--------|
+| FAT(PIF6)       | 18,861,120            | 14,145,840       | ×0.75  |
+| FAT(Samark 1&2) | 1,412,100             | 1,059,075        | ×0.75  |
+| FAT(Saguling)   | 717,000               | 537,750          | ×0.75  |
+| Enhanced test   | 1,880,000             | 1,880,000        | ×1     |
+| TDD             | 1,589,900             | 1,589,900        | ×1     |
+| Subtotal        | 24,460,120            | 19,212,565       |
+
+### Pipeline and Revenue Forecast
+
+| Item           | Pipeline Value | Revenue Forecast | Remark  |
+| -------------- | -------------- | ---------------- | ------- |
+| Enhanced Test  | 6,750,000      | 2,700,000        | ×0.4    |
+| FAT            | 19,800,000     | 1,653,300        | ×0.0835 |
+| TDD(PV)        | 300,000        | 300,000          | ×1      |
+| TDD(Wind)      | 550,000        | 550,000          | ×1      |
+| DCT            | 100,000        | 100,000          | ×1      |
+| Mech Load Test | 100,000        | 100,000          | ×1      |
+| Subtotal       | 27,600,000     | 5,403,300        |         |
+### Summary（合计）
+
+- **Total Revenue Forecast（税前总收入预测）**: **24,615,865**
+- **Total (after tax)（税后总收入预测）**: **23,222,514** （÷1.06）
+
 ## 降本方面
 
 | APTSH (CNY)                        |                                                | Total Reforecast - 2026 | Total Reforecast - 2026 | Diff       | 控制事项                     |
