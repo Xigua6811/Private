@@ -64,273 +64,21 @@
             }
           },
           {
-            "id": "0d9cbe7dc1e31513",
+            "id": "e2d072f553710f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Management/Budget and Cost.md",
+                "file": "260527蓝旭机器人参观.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Budget and Cost"
-            }
-          },
-          {
-            "id": "d23f2a94c2b799e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "cdbe8b6b821b2edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Desal/260522海淡预处理及联合实验室申报.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260522海淡预处理及联合实验室申报"
-            }
-          },
-          {
-            "id": "7f7686986be6dbc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "260522ELectrolyser Basic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260522ELectrolyser Basic"
-            }
-          },
-          {
-            "id": "46edaf990fbbba50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Budget and Cost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Budget and Cost"
-            }
-          },
-          {
-            "id": "aa76515c159d4867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天津海淡所合作大纲Apr 10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "天津海淡所合作大纲Apr 10"
-            }
-          },
-          {
-            "id": "fa47e4c92c3d7c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "海水淡化讨论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "海水淡化讨论"
-            }
-          },
-          {
-            "id": "d0ecdc7406f00dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACWA Power 中国创新与研发战略.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ACWA Power 中国创新与研发战略"
-            }
-          },
-          {
-            "id": "ba6bd05e088d1148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-General/260421Weekly Report - Innovation China.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260421Weekly Report - Innovation China"
-            }
-          },
-          {
-            "id": "b169c3bebf0452c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-General/260421Weekly Report - Innovation China.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260421Weekly Report - Innovation China"
-            }
-          },
-          {
-            "id": "2d4746ef78a63fb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-PV/260422蓝旭机器人交流.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260422蓝旭机器人交流"
-            }
-          },
-          {
-            "id": "c41802f6bd0f8ae3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Energy Storage/260422宁德钠电交流.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260422宁德钠电交流"
-            }
-          },
-          {
-            "id": "6dc8ba3dbb594293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Desal/260417大港新泉海淡厂.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260417大港新泉海淡厂"
-            }
-          },
-          {
-            "id": "47c2ce6707e93b61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Desal/260406海水淡化讨论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260406海水淡化讨论"
-            }
-          },
-          {
-            "id": "77f489c62766507c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-General/260420Leadership Meeting MOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260420Leadership Meeting MOM"
-            }
-          },
-          {
-            "id": "718cbb46315da393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Management/Budget and Cost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Budget and Cost"
-            }
-          },
-          {
-            "id": "0c771c136c5e5257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Management/260420Leadership Meeting MOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260420Leadership Meeting MOM"
-            }
-          },
-          {
-            "id": "3acb879e2df007d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Management/260420Leadership Meeting MOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260420Leadership Meeting MOM"
-            }
-          },
-          {
-            "id": "34dac96701492884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Management/公司制度.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "公司制度"
+              "title": "260527蓝旭机器人参观"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -494,20 +242,26 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "7f7686986be6dbc2",
+  "active": "e2d072f553710f0e",
   "lastOpenFiles": [
-    "20260515CQC对接.md",
-    "01-Desal/260522海淡预处理及联合实验室申报.md",
-    "260522ELectrolyser Basic.md",
-    "01-Desal/260522海淡预处理及联合实验室申报 1.md",
-    "Untitled.md",
     "06-Management/Budget and Cost.md",
+    "260527蓝旭机器人参观.md",
+    "Untitled.md",
+    "01-Desal/260522海淡预处理及联合实验室申报.md",
+    "08-General/260421Weekly Report - Innovation China.md",
+    "02-PV/260422蓝旭机器人交流.md",
+    "05-Energy Storage/260422宁德钠电交流.md",
+    "01-Desal/260417大港新泉海淡厂.md",
+    "01-Desal/260406海水淡化讨论.md",
+    "08-General/260420Leadership Meeting MOM.md",
+    "06-Management/公司制度.md",
+    "260522ELectrolyser Basic.md",
+    "20260515CQC对接.md",
+    "01-Desal/260522海淡预处理及联合实验室申报 1.md",
     "04-Hydrogen/260519明拓SAF合作.md",
     "02-PV/260513光伏实验室.md",
-    "02-PV/260422蓝旭机器人交流.md",
     "Pasted image 20260512094122.png",
     "08-General/China Innovation Strategy Apr 8.md",
-    "06-Management/公司制度.md",
     "06-Management/工时填报.md",
     "08-General/260506Annual Report Regarding Innovation.md",
     "08-General/ACWA Power 中国创新与研发战略.md",
@@ -517,14 +271,8 @@
     "05-Energy Storage/260410清华云储方案Apr 10.md",
     "03-Wind/260430中科启航对接.md",
     "04-Hydrogen/260429鉴衡氢能对接.md",
-    "06-Management/KPI Discussion.md",
     "Pasted image 20260506191156.png",
-    "markitdown-output/Corporate Finance Deck Apr-26 v2-APSTC.md",
     "markitdown-output/tmp_1778065631093_Corporate_Finance_Deck_Apr-26_v2-APSTC.pptx",
-    "08-General/260420Leadership Meeting MOM.md",
-    "08-General/260427Leadership Meeting MOM.md",
-    "05-Energy Storage/260422CATL钠电交流.md",
-    "04-Hydrogen/260428清华林今教授.md",
     "Untitled 1.base",
     "Untitled.base",
     "08-General",
