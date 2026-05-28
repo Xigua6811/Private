@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260527蓝旭机器人参观.md",
+                "file": "02-PV/260513光伏实验室.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260527蓝旭机器人参观"
+              "title": "260513光伏实验室"
+            }
+          },
+          {
+            "id": "96d20f85ba4c0210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "260528海水淡化基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260528海水淡化基础"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,10 +256,12 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "e2d072f553710f0e",
+  "active": "96d20f85ba4c0210",
   "lastOpenFiles": [
-    "06-Management/Budget and Cost.md",
+    "02-PV/260513光伏实验室.md",
+    "260528海水淡化基础.md",
     "260527蓝旭机器人参观.md",
+    "06-Management/Budget and Cost.md",
     "Untitled.md",
     "01-Desal/260522海淡预处理及联合实验室申报.md",
     "08-General/260421Weekly Report - Innovation China.md",
@@ -259,7 +275,6 @@
     "20260515CQC对接.md",
     "01-Desal/260522海淡预处理及联合实验室申报 1.md",
     "04-Hydrogen/260519明拓SAF合作.md",
-    "02-PV/260513光伏实验室.md",
     "Pasted image 20260512094122.png",
     "08-General/China Innovation Strategy Apr 8.md",
     "06-Management/工时填报.md",
@@ -270,7 +285,6 @@
     "05-Energy Storage/260428清华云储交流.md",
     "05-Energy Storage/260410清华云储方案Apr 10.md",
     "03-Wind/260430中科启航对接.md",
-    "04-Hydrogen/260429鉴衡氢能对接.md",
     "Pasted image 20260506191156.png",
     "markitdown-output/tmp_1778065631093_Corporate_Finance_Deck_Apr-26_v2-APSTC.pptx",
     "Untitled 1.base",
