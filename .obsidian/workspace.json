@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Hydrogen/260522ELectrolyser Basic.md",
+                "file": "06-Management/Budget and Cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260522ELectrolyser Basic"
+              "title": "Budget and Cost"
             }
           }
         ],
@@ -258,6 +258,7 @@
   },
   "active": "96d20f85ba4c0210",
   "lastOpenFiles": [
+    "04-Hydrogen/260522ELectrolyser Basic.md",
     "01-Desal/260528海水淡化基础.md",
     "02-PV/20260515CQC对接.md",
     "02-PV/260527蓝旭机器人参观.md",
@@ -272,7 +273,6 @@
     "01-Desal/260406海水淡化讨论.md",
     "08-General/260420Leadership Meeting MOM.md",
     "06-Management/公司制度.md",
-    "04-Hydrogen/260522ELectrolyser Basic.md",
     "01-Desal/260522海淡预处理及联合实验室申报 1.md",
     "04-Hydrogen/260519明拓SAF合作.md",
     "Pasted image 20260512094122.png",
