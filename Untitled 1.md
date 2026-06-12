@@ -1,0 +1,1350 @@
+
+# RO膜的下一步发展方向？
+
+从工程和产业实际来看，RO膜下一步发展不是单一方向，而是**围绕“更高性能 + 更长寿命 + 更低成本 + 更强适应性”**的多维演进。可以总结为 6 条主线（你可以直接放PPT用）。
+
+---
+
+# 1️⃣ 膜材料层面：从PA体系 → 功能化/纳米化
+
+### ✅ 方向
+
+- **纳米复合膜（TFN）成为主流升级路径**
+- 在传统PA选择层中引入：
+    - MOF（ZIF-8、UiO-66）
+    - 石墨烯氧化物（GO）
+    - CNT
+    - 金属氧化物（TiO₂、SiO₂）
+
+### ✅ 目标（工程语言）
+
+- 提高有效渗透通道（降低传质阻力）
+- 控制自由体积（Free volume）
+- 调节电荷 → 改善selectivity
+
+### ✅ 实际意义
+
+- **打破 permeability–selectivity trade-off**
+- 在同等压力下降低能耗（kWh/m³）
+
+---
+
+# 2️⃣ 抗污染能力：从“被动运行” → “主动抗污设计”
+
+这是未来最核心竞争点（比脱盐率更关键）
+
+### ✅ 方向
+
+- 表面改性：
+    - 超亲水（降低有机污染吸附）
+    - 抗生物污染（Ag、Cu 或类抗菌表面）
+- 动态界面：
+    - 自清洁膜（光催化 TiO₂）
+    - 低附着能表面（类似液体滑移界面 SLIPS）
+
+### ✅ 工程目标
+
+- 降低 fouling rate： dJdt↓\frac{dJ}{dt} \downarrow
+- 延长清洗周期（CIP周期从2周 → 1–2个月）
+
+---
+
+# 3️⃣ 抗氯与化学稳定性（非常关键）
+
+### ✅ 问题本质
+
+PA膜被Cl₂攻击：
+
+–NH–CO–+Cl2→chain scission\text{–NH–CO–} + Cl_2 \rightarrow \text{chain scission}
+
+### ✅ 未来方向
+
+- 非PA体系：
+    - 聚酰亚胺
+    - 聚芳醚
+- 表面保护层：
+    - GO coating
+    - 氟化层
+- 自修复材料（研究前沿）
+
+### ✅ 工程意义
+
+- 允许**连续加氯运行（无脱氯）**
+- 降低系统复杂度 + OPEX
+
+---
+
+# 4️⃣ 结构设计：从“均质膜” → “多层/梯度结构”
+
+### ✅ 方向
+
+- 梯度孔径结构（top dense + bottom porous）
+- 定向通道膜（biomimetic / aquaporin）
+- 2D材料堆叠膜
+
+### ✅ 核心提升点
+
+- 提高水分子传输效率：
+
+J=A(ΔP−Δπ)J = A(\Delta P - \Delta \pi)
+
+→ 等效 **提高 A（permeability）**
+
+---
+
+# 5️⃣ 系统层优化（你做项目更 relevant）
+
+未来竞争不仅在膜材料，而是**膜 + 系统耦合设计**
+
+### ✅ 方向
+
+- 低压RO（LPRO）
+- 超高回收率（>60–70%）
+- 浓水最小化（ZLD耦合）
+- 智能运行（AI fouling预测）
+
+### ✅ 关键指标
+
+- SEC（能耗）
+- recovery rate
+- cleaning frequency
+- membrane replacement周期
+
+---
+
+# 6️⃣ 成本与规模化（决定能不能落地）
+
+### ✅ 当前瓶颈
+
+- 纳米材料：
+    - 成本高（MOF / GO）
+    - 批次稳定性差
+- 制备工艺：
+    - 无法兼容卷式膜工业线
+
+### ✅ 未来方向
+
+- **roll-to-roll工艺可兼容材料**
+- 低成本纳米填料（Si、Al-based）
+- 膜寿命延长（>5 → 8–10年）
+
+---
+
+# 7️⃣ 一个总结（适合你对管理层讲）
+
+### 👉 下一代RO膜 = 4个核心能力
+
+|维度|当前状态|未来趋势|
+|---|---|---|
+|脱盐|已接近极限|小幅提升|
+|通量|中等|提升（降能耗）✅|
+|抗污染|短板|**核心突破点** ✅|
+|寿命|3–5年|8–10年 ✅|
+
+---
+
+# 8️⃣ 谁在引领这些方向（给你做benchmark）
+
+### 企业
+
+- DuPont → TFN + 抗污染
+- Toray → 高耐久 + 海水淡化
+- LG Chem → 低能耗RO
+- Hydranautics → 抗污染膜
+
+### 学术前沿
+
+- Elimelech（Yale）→ fouling / transport
+- Menachem Elimelech团队 → trade-off理论
+- 曼彻斯特大学 → graphene membrane
+
+---
+
+# 9️⃣ 用一句工程话总结
+
+> RO膜下一步发展的本质不是“过滤更干净”，而是：  
+> **在更脏的水、更低的能耗、更长的周期下稳定运行。**
+
+---
+
+如果你需要，我可以帮你再往下细化一层，比如：
+
+- “MOF到底怎么提升通量（机理 + 数学表达）”
+- “TFN vs TFC 实际项目差多少（kWh/m³）”
+- 或者直接给你一页**汇报级路线图图示**
+
+
+# TFN在主流OEM中的应用？
+
+直接给你结论（按行业真实落地情况）：
+
+---
+
+# ✅ 1️⃣ 已经**真正商业化采用TFN（纳米复合膜）**的主流OEM
+
+## 🟢 ✅ **LG Chem / LG Water Solutions（最典型、最成熟）**
+
+- **全球唯一大规模商业化TFN平台（到目前为止最明确）**
+- 产品线：**NanoH2O™（SWRO / BWRO）**
+- 技术特征：
+    - 在PA选择层中嵌入纳米材料（TFN）
+    - 提升 permeability + flux，同时保持高rejection
+
+👉 官方表述：
+
+- “embedding nanomaterial onto the membrane surface，提高通量并保持高脱盐率” [[lgwatersolutions.com]](https://www.lgwatersolutions.com/products/reverse-osmosis/)
+- 实际效果：
+    - **+20% flux**
+    - **更高salt rejection（~99.8–99.9%）** [[appliedmembranes.com]](https://www.appliedmembranes.com/pages/seawater-ro-2)
+
+👉 工程结论：
+
+> LG 是目前唯一一个**“把TFN从论文做到大规模工程项目”的厂商**
+
+---
+
+# ✅ 2️⃣ **DuPont (FilmTec)**
+
+### 状态：**未明确商业化TFN（主流产品仍是优化TFC）**
+
+- 仍以：
+    - 改进型 **PA-TFC膜**为核心
+- 方向：
+    - 高通量膜
+    - 抗污染
+    - 低压运行
+
+👉 行业判断（结合公开资料 + 产品特征）：
+
+- DuPont**很可能在内部使用“弱纳米/表面调控”**
+- 但**没有像LG一样明确商业化TFN branding**
+
+👉 实际策略：
+
+> **工程可靠性优先，而不是激进材料创新**
+
+---
+
+# ✅ 3️⃣ **Toray（东丽）**
+
+### 状态：**基本仍是高端TFC路线**
+
+- 技术重点：
+    - 高交联PA结构
+    - 抗污染 spacer + surface engineering
+- 没有明确“TFN量产产品”公开
+
+👉 特征：
+
+- 更偏：
+    - **寿命**
+    - **稳定性**
+    - **大项目可靠性（中东海淡）**
+
+---
+
+# ✅ 4️⃣ **Hydranautics（Nitto）**
+
+### 状态：**类似Toray**
+
+- 主打：
+    - 抗污染膜（ESPA系列）
+- 技术路线：
+    - 表面改性（hydrophilic coating）
+- **未明确推广TFN商业产品**
+
+---
+
+# ✅ 5️⃣ **Veolia / SUEZ（原GE Water）**
+
+### 状态：**系统导向 + 材料保守**
+
+- 重点：
+    - 系统集成
+    - 全生命周期优化
+- 膜材料：
+    - 仍是**TFC优化版本**
+
+---
+
+# 6️⃣ 一个行业真实结论（非常重要）
+
+## ✅ 目前格局（你可以直接用于汇报）
+
+|类型|公司|状态|
+|---|---|---|
+|✅ 真·TFN商业化|**LG Chem**|✅ 已规模应用|
+|⚠️ 可能部分纳米化|DuPont|⚠️ 未明确|
+|⚠️ 保守TFC优化|Toray|❌|
+|⚠️ 抗污染路线|Hydranautics|❌|
+|⚠️ 系统集成优先|Veolia/SUEZ|❌|
+
+---
+
+# 7️⃣ 为什么只有LG真正推TFN（关键洞察）
+
+## ✅ 原因1：可靠性风险
+
+纳米材料带来：
+
+- 结构缺陷风险
+- 长周期稳定性问题
+
+👉 大厂（DuPont / Toray）更保守：
+
+> **宁愿牺牲10%性能，也不要10年寿命出问题**
+
+---
+
+## ✅ 原因2：规模制造难
+
+TFN难点不在实验室，而在：
+
+- 纳米材料均匀分散
+- roll-to-roll工艺兼容
+- 批次稳定性
+
+👉 很多技术：
+
+> **实验室OK → 工厂不可控**
+
+---
+
+## ✅ 原因3：成本问题
+
+- MOF / GO 等材料成本高
+- 对 desalination：
+    - 节能收益 ≠ 材料成本
+
+---
+
+# 8️⃣ 一个你可以带走的核心判断
+
+> ✅ **TFN已经被证明“是对的方向”**  
+> ❗ 但目前只有LG完成了“工程可用化”  
+> ❗ 其他OEM仍在“谨慎推进”阶段
+
+---
+
+# 9️⃣ 用一句工程话总结
+
+> **纳米复合膜（TFN）现在不是“有没有”的问题，而是“谁敢在大规模项目里用”的问题。**
+
+---
+
+如果你要做行业分析或PPT，我可以帮你再补一页：
+
+👉 **“TFN vs TFC 在实际海淡项目中的差异（能耗 / fouling / CAPEX）”**  
+这个更贴近你实际R&D管理决策。
+
+
+# TFN在国内OEM的落地情况？
+
+可以直接给你一个**很真实、不吹的行业判断**（你做决策会更有用）：
+
+---
+
+# ✅ 结论先说（工程视角）
+
+> **国内有做TFN的，但真正做到“成熟+大规模工程验证”的，还没有形成类似LG Chem的级别。**
+
+当前状态可以分三类👇
+
+---
+
+# 1️⃣ ✅ 已经在做TFN且“最像样”的国内企业
+
+## 🟢 **普希环保（Proshare / PSI）——目前最接近产业化**
+
+- 定位：
+    
+    - **第三代纳米复合膜（TFN）核心玩家**
+- 能力：
+    
+    - 已建**国内首条TFN规模化涂布线**
+    - 实现批量生产（不是实验室） [[国内首条！普希（盐城...领跑_中国膜工业协会]](http://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html)
+- 产品特点：
+    
+    - 高通量 + 抗污染 + 耐酸碱
+- 应用场景：
+    
+    - 半导体 / 新能源 / 盐湖提锂 / 工业废水
+- 客户：
+    
+    - 中石化、宁德时代等已有应用 [[m.36kr.com]](https://m.36kr.com/p/3028946370881031)
+
+👉 行业地位：
+
+> **国内唯一明确做到“TFN工程化+批量供货”的公司之一**
+
+---
+
+## 🟢 同一体系（技术来源类似）
+
+- **Proshare Innovation（苏州系）**
+- 特点：
+    - TFN连续化制备
+    - 膜片 → 元件 → 系统一体化 [[psimembran...-china.com]](https://psimembrane.en.made-in-china.com/company-Proshare-Innovation-Suzhou-Co-Ltd-.html)
+
+👉 本质：
+
+> 和普希是同一技术路线/团队延伸
+
+---
+
+# 2️⃣ ⚠️ 在做“纳米改性”，但未明确TFN商业化
+
+这些企业更接近**“TFC改进版”**：
+
+## 🔵 时代沃顿（中车）
+
+- 强项：低压膜、规模制造
+- 技术：部分纳米/表面改性
+- 状态：**未明确TFN产品线**
+
+---
+
+## 🔵 碧水源 / 津膜 / 苏瑞膜
+
+- 技术：
+    - 表面改性
+    - 抗污染涂层
+- 特点：
+    - 系统能力强
+- 结论：
+
+> **属于“准TFN（改性）”，不是典型TFN**
+
+---
+
+## 🔵 Vontron（时代沃顿同体系）
+
+- 有表述：
+    - “nanocomposite additives improving hydrophilicity” [[en.vontron.com]](https://en.vontron.com/RO-membrane.html)
+- 但：
+    - 没有明确TFN产品线
+
+👉 判定：
+
+> **可能用了纳米材料，但不是明确TFN路线**
+
+---
+
+# 3️⃣ 🔬 学术领先，但还没产业化
+
+国内这一块其实很强：
+
+- 北航（程群峰）
+- 中科大（俞书宏）
+- 青岛科大 等
+
+👉 能力：
+
+- GO / MOF / 2D材料
+- 渗透通道设计
+
+👉 但问题：
+
+> **停留在膜片级/实验室级**
+
+---
+
+# 4️⃣ 为什么国内TFN还没全面起来（核心原因）
+
+这个是重点（你做战略判断需要）
+
+---
+
+## ✅ 原因1：工业可靠性没跑通
+
+TFN最大问题：
+
+- 纳米填料 → 界面缺陷
+- → 微孔泄漏
+- → rejection波动
+
+👉 大厂最怕：
+
+> **一年没问题，三年崩**
+
+---
+
+## ✅ 原因2：规模制造难
+
+难点在：
+
+- 纳米材料均匀分散
+- 薄层（~100 nm）控制
+- roll-to-roll一致性
+
+👉 结果：
+
+- 实验室 OK
+- 工厂失控
+
+---
+
+## ✅ 原因3：项目侧不敢用
+
+现实情况：
+
+- 大海淡项目（如中东）
+    - 指定：DuPont / Toray
+- EPC逻辑：
+
+> **不要风险，只要成熟**
+
+---
+
+# 5️⃣ 你可以这样给管理层总结
+
+## ✅ 国内TFN现状（一句话）
+
+> **中国已经具备TFN能力，但还处在“工程验证期”，尚未成为大规模主流技术。**
+
+---
+
+# 6️⃣ 一个更“接地气”的对比（很适合你用）
+
+|维度|LG Chem|国内（普希等）|
+|---|---|---|
+|技术成熟度|✅ 已验证|⚠️ 进行中|
+|项目体量|✅ 大型海淡|⚠️ 工业为主|
+|稳定性数据|✅ 10年级别|❌ 不充分|
+|市场认可|✅ 高|⚠️ 初期|
+
+---
+
+# 7️⃣ 一句话结论（工程判断）
+
+> **国内不是没有TFN，而是还没到“让EPC放心放到GW级海淡项目里去”的阶段。**
+
+---
+
+如果你要下一步更深入（更偏你做R&D决策）：
+
+👉 我可以帮你做一个  
+**“国产TFN vs 进口TFC 在真实工况下的性能差距（含风险）”**  
+这个会更有决策价值（不是论文那种）。
+
+# TFN领域中国学者的主要成果
+
+可以，我按你前面那条线来讲：**北航程群峰、中科大俞书宏、青岛科大王新萍**。  
+先给一个总判断：
+
+> 这三位里，**程群峰**和**俞书宏**更偏“高性能仿生/二维纳米复合材料与组装方法学”，属于**TFN/功能膜的上游材料与结构方法论贡献者**；**王新萍**则更接近**膜分离本体、MOF膜、FO/NF/海水淡化**这条应用线。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm), [[team.ustc.edu.cn]](https://team.ustc.edu.cn/yulab), [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm)
+
+---
+
+# 1）北航 程群峰：强项是**二维纳米复合薄膜的结构缺陷机理 + 致密化组装 + 连续化制造**
+
+## 他的核心贡献，不是传统RO膜配方本身，而是：
+
+### ① 先把“为什么二维纳米复合薄膜做不出高性能”这件事讲清楚了
+
+程群峰团队在 2021 年通过三维重构，**首次发现并实验证实了湿法组装过程中由毛细收缩诱导的孔隙缺陷**，指出这类孔隙会显著削弱纳米片之间的载荷传递能力，是宏观性能上不去的关键原因。这个认识本质上是二维纳米复合薄膜从“凭经验做”走向“按缺陷机制设计”的转折点。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm), [[bhkj.buaa.edu.cn]](https://bhkj.buaa.edu.cn/info/1013/9516.htm)
+
+### ② 提出了多种“致密化”策略，把强度真正做上去
+
+2024 年他连续给出两条很强的方法学路线：
+
+- **纳米限域水策略**：利用“纳米限域水”抑制组装过程中的毛细收缩，使二维纳米片更规整取向，并通过 π-π 交联增强界面作用，做出了**孔隙率仅 3.87%、拉伸强度达到 1.87 GPa** 的 MXene/石墨烯复合薄膜，同时兼具高电化学储能性能。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm), [[news.sciencenet.cn]](https://news.sciencenet.cn/htmlnews/2024/2/517567.shtm)
+- **液态金属交联致密化策略**：通过液态金属填充孔隙并与纳米片形成配位键，制备出**拉伸强度 908.4 MPa** 的 MXene 复合薄膜，同时具备优异电磁屏蔽能力。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm)
+
+### ③ 把高性能二维纳米复合薄膜从“实验室片子”推进到“连续化制造”
+
+2024 年《Nature》那篇更关键，重点不是单纯性能，而是**卷对卷辅助刮涂 + 有序界面交联**，实现了高性能 MXene 薄膜的**连续化制备**。产物 S-SBM 薄膜拉伸强度约 **755 MPa**、韧性 **17.4 MJ/m³**、比电磁屏蔽性能 **78,000 dB·cm²·g⁻¹**，同时还显示出较强的环境稳定性。 [[bhkj.buaa.edu.cn]](https://bhkj.buaa.edu.cn/info/1013/9516.htm), [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837)
+
+### ④ 还把材料从结构功能扩展到了生物应用
+
+同一篇工作里，他把这种连续化高强薄膜用于骨再生，引导骨再生效率显著提高，**8 周新生骨体积分数达到 77.4%**。这说明他的贡献不只是“材料指标高”，而是已经进入“**连续制造 + 应用验证**”层面。 [[bhkj.buaa.edu.cn]](https://bhkj.buaa.edu.cn/info/1013/9516.htm)
+
+## 你可以怎么理解他对TFN/膜领域的价值
+
+> 程群峰更像是在解决：**二维纳米材料怎么规整排列、怎么减少缺陷、怎么把实验室纳米片变成可规模组装的高性能薄膜。**  
+> 这对以后石墨烯、MXene、2D filler 做功能膜、屏障膜、甚至下一代分离膜，是很底层的方法学贡献。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm), [[bhkj.buaa.edu.cn]](https://bhkj.buaa.edu.cn/info/1013/9516.htm)
+
+---
+
+# 2）中科大 俞书宏：强项是**仿生层状纳米复合材料、组装结构设计、从薄膜到块体的尺度放大**
+
+## 他的核心贡献也不是传统RO商用膜，而是：
+
+### ① 长期建立了“仿生纳米复合材料”这条系统路线
+
+俞书宏课题组长期从事**无机材料仿生合成与功能化**，重点在于**纳米结构单元尺寸/维度/取向调控**、以及**仿生多尺度复杂结构材料的合成与构效关系**。这意味着他不是只做某一类膜，而是在做**纳米构筑单元如何变成高性能宏观材料**这套更通用的方法体系。 [[team.ustc.edu.cn]](https://team.ustc.edu.cn/yulab), [[仿生与纳米化学实验室 俞书宏教授课题组]](http://staff.ustc.edu.cn/~yulab/group.html)
+
+### ② 在仿生层状纳米复合材料方面，强调“结构规整性”和“跨尺度性能传递”
+
+2024 年他们提出**双限域共组装策略**，通过微米级限域诱导大宽厚比纳米片取向、纳米级限域诱导小宽厚比纳米片定向排列，最终实现近乎完美的规整层状结构。论文明确指出，这种方法能够减少褶皱和空隙，使优异的纳米尺度性能更有效传递到宏观尺度。 [[news.qq.com]](https://news.qq.com/rain/a/20240618A00MW200)
+
+### ③ 他们把“如何从薄膜走向块体放大”系统化总结了
+
+俞书宏团队 2024 年还专门总结了**Bottom-Up Film-to-Bulk Assembly（薄膜到块体组装）**方法，核心思想是：先精准制备具有类珍珠层结构的微薄膜，再通过层压和界面桥接把微薄膜扩展到宏观块体结构。这个贡献的价值在于**告诉行业怎么从漂亮的小膜片，走到大尺寸、有厚度、可工程用的结构材料**。 [[sohu.com]](https://www.sohu.com/a/771062009_121124372), [[中国科学技术大学 仿...中文主页--2024]](http://www.lianpp.com/ustc/mu_team/yulab/zh_CN/zdylm/1000131/list/index.htm)
+
+### ④ 在“仿生纳米复合薄膜”方面有具体代表作
+
+例如他们做过**PLA 包覆云母纳米片的珍珠层仿生纳米复合膜**，得到同时具备较好机械性能、紫外屏蔽和阻隔性能的薄膜，目标应用是包装材料。其意义不在海淡本身，而在于证明：**天然矿物二维片层 + 聚合物基体 + 仿生层状结构设计**可以显著改善复合薄膜的综合性能。 [[sohu.com]](https://www.sohu.com/a/549875841_229957), [[163.com]](https://www.163.com/dy/article/H81N8IEP05329TW8.html)
+
+## 你可以怎么理解他对TFN/膜领域的价值
+
+> 俞书宏的贡献更像“结构设计总方法”：**怎么借鉴珍珠层、Bouligand、层状组装这些生物启发结构，把纳米片的性能可靠传递到宏观薄膜或块体。**  
+> 这对未来 TFN、Janus 膜、2D barrier 膜、功能层状膜的设计都有很强启发，但**他并不是以商用RO/TFN脱盐膜为主战场**。 [[team.ustc.edu.cn]](https://team.ustc.edu.cn/yulab), [[sohu.com]](https://www.sohu.com/a/771062009_121124372), [[news.qq.com]](https://news.qq.com/rain/a/20240618A00MW200)
+
+---
+
+# 3）青岛科大（如果你指的是王新萍）：强项是**MOF膜、正渗透/纳滤、海水淡化与膜分离应用**
+
+这位就更接近你关心的“膜”本体了。
+
+## 她的主要研究方向
+
+王新萍在青岛科技大学的公开介绍里，研究方向明确写的是：**膜材料与膜分离、MOFs 材料、海水淡化、海洋资源利用**。这说明她的工作属于比较直接的膜分离应用研究线，而不是单纯结构材料。 [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm)
+
+## 代表性成果主要有两类：
+
+### ① MOF 膜用于正渗透 / 抗菌膜
+
+她在 2020 年的工作是**在聚多巴胺改性柔性基底上原位生长 MOF 薄膜**，用于**抗菌与正渗透膜**。这类工作本质上是在探索 MOF 功能层与聚合物支撑层之间的界面构筑，以及把 MOF 的选择性/抗菌性引入膜分离。 [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm)
+
+### ② 提升 ZIF-8 膜的水稳定性，并用于纳滤染料分离
+
+她 2021 年在 _Journal of Membrane Science_ 的工作是：**通过生物分子改性提高 ZIF-8 膜的水稳定性**，从而增强其用于**染料去除纳滤**时的性能。这个方向很关键，因为 MOF/沸石类膜常见痛点就是**水稳定性和长期运行稳定性**，而她这篇工作正对着这个问题。 [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm), [[x-mol.com]](https://www.x-mol.com/university/faculty/332184)
+
+### ③ 还有配套专利，说明她不是停留在论文层面
+
+她公开资料里还列出了关于**ZIF-8 改性醋酸纤维素正渗透膜**、以及**ZIF-8 原位生长改性聚醚砜正渗透膜**的授权专利，这表明她的工作已经从论文推进到一定的工艺实现层面。 [[x-mol.com]](https://www.x-mol.com/university/faculty/332184)
+
+## 你可以怎么理解她对TFN/膜领域的价值
+
+> 王新萍更接近“**膜功能层怎么做、MOF 怎么引进膜里、怎么兼顾稳定性和分离性能**”这条线。  
+> 如果你关心的是**直接和分离膜/脱盐膜更相关**的人，三者里她是最近的一位。 [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm), [[x-mol.com]](https://www.x-mol.com/university/faculty/332184)
+
+---
+
+# 4）把三个人放在一起比较（最适合你看）
+
+## 如果从“和RO/TFN有多近”来排：
+
+1. **王新萍（青岛科大）**：最近，直接做膜分离、MOF膜、FO/NF、海淡相关。 [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm), [[x-mol.com]](https://www.x-mol.com/university/faculty/332184)
+2. **程群峰（北航）**：偏上游，核心是二维纳米复合薄膜的缺陷控制、致密化和连续化制造，对未来2D功能膜很重要。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm), [[bhkj.buaa.edu.cn]](https://bhkj.buaa.edu.cn/info/1013/9516.htm)
+3. **俞书宏（中科大）**：更上游，偏仿生结构设计和跨尺度组装，是材料方法学领军，不是直接做RO商品膜。 [[team.ustc.edu.cn]](https://team.ustc.edu.cn/yulab), [[sohu.com]](https://www.sohu.com/a/771062009_121124372), [[news.qq.com]](https://news.qq.com/rain/a/20240618A00MW200)
+
+## 如果从“学术原创性和方法学影响力”来排：
+
+- **程群峰**：强在“缺陷机理 + 致密化 + 连续化制造”这一套连成体系。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm), [[bhkj.buaa.edu.cn]](https://bhkj.buaa.edu.cn/info/1013/9516.htm)
+- **俞书宏**：强在“仿生层状纳米复合材料”的系统框架与跨尺度组装范式。 [[team.ustc.edu.cn]](https://team.ustc.edu.cn/yulab), [[sohu.com]](https://www.sohu.com/a/771062009_121124372), [[news.qq.com]](https://news.qq.com/rain/a/20240618A00MW200)
+- **王新萍**：强在更贴近膜分离应用端，尤其是 MOF 膜与正渗透/纳滤。 [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm), [[x-mol.com]](https://www.x-mol.com/university/faculty/332184)
+
+---
+
+# 5）一句工程化总结
+
+> **程群峰**解决的是“二维纳米复合膜怎么做强、做稳、做成连续工艺”；**俞书宏**解决的是“仿生层状纳米复合材料怎么从纳米结构设计到宏观放大”；**王新萍**则更直接回答“MOF/功能纳米材料怎么真的放进分离膜里并改善性能”。 [[news.buaa.edu.cn]](https://news.buaa.edu.cn/info/1002/62893.htm), [[bhkj.buaa.edu.cn]](https://bhkj.buaa.edu.cn/info/1013/9516.htm), [[team.ustc.edu.cn]](https://team.ustc.edu.cn/yulab), [[hysw.qust.edu.cn]](https://hysw.qust.edu.cn/info/1118/6846.htm)
+
+---
+
+如果你愿意，我下一步可以直接给你整理成你更好用的两种格式之一：
+
+1. **“汇报版”**：每个人 3 条成果 + 1 条行业意义（适合PPT）
+2. **“技术版”**：按 **研究对象 / 方法 / 指标 / 与RO的关系 / 工程价值** 做成对比表
+
+# TFN落地难的原因？
+
+对，你这个判断**基本是对的**。  
+我会更准确地表述成一句话：
+
+> **中国学者在 TFN 的论文、材料设计、纳米填料、界面调控这些上游环节已经有一定存在感，但产业转化明显落后于学术热度，真正做到“稳定量产 + 长周期验证 + 大项目采用”的企业很少。** [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837), [[patents.google.com]](https://patents.google.com/patent/CN112546877B/zh), [[academia.edu]](https://www.academia.edu/71783934/Seawater_Desalination_A_Review_of_Forward_Osmosis_Technique_Its_Challenges_and_Future_Prospects)
+
+这不是中国科研不行，更多是 **TFN 这个东西本身就特别难产业化**。下面我按工程逻辑拆开说。
+
+---
+
+# 1）为什么会出现“论文强、产业弱”？
+
+## 1.1 学术界解决的是“能不能做出来”
+
+国内高校和研究团队在这些方向上其实不弱：
+
+- MOF / GO / CNT / MXene 等纳米填料引入 PA 层
+- 界面聚合调控
+- 抗污、增通量、抗氯、抗有机污染
+- 2D 材料有序组装、缺陷控制
+
+这些方向中国论文很多，说明**材料创新能力和实验室验证能力是有的**。像你前面提到的北航程群峰、俞书宏团队、以及青岛科大王新萍这种，更偏“结构设计”“纳米复合薄膜”“MOF 膜/功能层”的上游方法学贡献。 [[Proshare I...turing ...]](http://psimembrane.com/), [[sohu.com]](https://www.sohu.com/a/957202328_122486503), [[sohu.com]](https://www.sohu.com/a/845901193_362225), [[booksci.cn]](https://www.booksci.cn/literature/145411938.htm)
+
+但产业界需要回答的不是“能不能做”，而是：
+
+> **能不能连续做 1,000 卷、10,000 卷，还每卷都不翻车。**
+
+这就是完全不同的问题。
+
+---
+
+## 1.2 产业化真正难的是“一致性”，不是“最好的一片膜”
+
+TFN 在实验室里往往看单片性能：
+
+- 通量提升多少
+- rejection 提升多少
+- 抗污提升多少
+
+但工业上更关心的是：
+
+- **批次一致性**
+- **膜卷宽幅均匀性**
+- **长周期稳定性**
+- **清洗后的性能恢复**
+- **元件卷装后是否仍保持性能**
+
+国内公开资料里，像普希环保已经明确宣称建立了**国内首条 TFN 规模化涂布线**并实现批量生产，但这恰恰反过来说明：**做到这一步的企业仍然极少，甚至被表述为“国内唯一实现 TFN 膜规模化生产的企业”**。 [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837), [[163.com]](https://www.163.com/dy/article/JJRGIOCF055602MP.html)
+
+换句话说，不是没人做，而是**做到连续化、规模化的太少**。
+
+---
+
+# 2）为什么 TFN 比普通 TFC 更难放大？
+
+这个是核心。
+
+## 2.1 纳米填料一进 PA 层，系统就变得很敏感
+
+TFN 本质上是把纳米材料引进传统 TFC 的选择层。  
+问题在于：
+
+- 纳米材料容易**团聚**
+- 分散不均会导致**局部缺陷**
+- 界面结合不好会形成**非选择性通道**
+- 最终可能出现：
+    - 通量提高了，但 rejection 波动
+    - 甚至初期好看，老化后快速掉性能
+
+这类问题在综述中也被 repeatedly 提到：TFN 虽然能显著改善 permeability、salt rejection、抗污染等，但其性能高度依赖纳米填料组成和结构，同时也存在缺陷控制和结构稳定性的挑战。 [[欢迎访问北京航空航天...程群峰 研究员网站]](http://www.polymer.cn/ss/cheng/index.html), [[lgwatersolutions.com]](https://www.lgwatersolutions.com/)
+
+所以学术上“最优样品”并不能自动转化成工业“可交付产品”。
+
+---
+
+## 2.2 工业线要的是 roll-to-roll，不是实验室小片
+
+工业 RO/NF 膜生产讲究的是：
+
+- 宽幅连续涂布
+- 界面聚合速度稳定
+- 后处理稳定
+- 膜片可卷装
+- 元件封装后性能稳定
+
+而很多 TFN 研究是在：
+
+- 小面积平板
+- 理想实验水
+- 短周期测试
+- 比较温和条件
+
+这和真正工业海淡或高盐废水环境差很大。
+
+普希环保之所以被市场反复提“国内首条年产数百万平方米 TFN 薄膜涂布线”，说明行业意义就在于它试图跨过这道坎——**从实验室膜片走向卷对卷产线**。 [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837)
+
+---
+
+# 3）为什么国外商业化也不多？这不是中国独有问题
+
+这点很重要。  
+并不是“中国转化不行，所以 TFN 没起来”，而是：
+
+> **全球范围内，真正把 TFN 做成大规模商业平台的也没几家。**
+
+最典型的就是 **LG Water Solutions / NanoH2O**，其官网明确把自己定义为基于 **Thin-Film Nanocomposite (TFN)** 技术的 RO 产品平台，并宣称这是其核心差异化能力。 [[academia.edu]](https://www.academia.edu/71783934/Seawater_Desalination_A_Review_of_Forward_Osmosis_Technique_Its_Challenges_and_Future_Prospects), [[eeer.org]](https://www.eeer.org/journal/view.php?doi=10.4491/eer.2024.662)
+
+反过来看，像 DuPont、Toray、Hydranautics 这些主流大厂，公开产品表达仍更偏向：
+
+- 优化型 TFC
+- 抗污染
+- 低压节能
+- 长寿命稳定性
+
+而不是高调全面转向 TFN。 [[researchgate.net]](https://www.researchgate.net/publication/343329845_Seawater_desalination_A_review_of_forward_osmosis_technique_its_challenges_and_future_prospects/fulltext/5f25a6fd299bf13404985a7d/343329845_Seawater_desalination_A_review_of_forward_osmosis_technique_its_challenges_and_future_prospects.pdf), [[jstage.jst.go.jp]](https://www.jstage.jst.go.jp/article/jwet/22/4/22_24-004/_article/-char/en), [[mdpi.com]](https://www.mdpi.com/2077-0375/15/6/162)
+
+这说明一个事实：
+
+> **TFN 的产业化门槛太高，以至于连国际主流 OEM 也很谨慎。**
+
+所以国内转化差，不是“只有中国做不好”，而是**这条路全球都难，只是中国现在更明显地处在“学术先行、工业补课”的阶段**。
+
+---
+
+# 4）中国产业转化为什么比学术更慢？我觉得有 5 个现实原因
+
+## 4.1 下游客户太保守
+
+海淡、半导体超纯水、市政回用这些场景有个共同点：
+
+- 不怕你“没那么先进”
+- 怕你“运行 18 个月后出事”
+
+尤其海淡 EPC 和业主更看重：
+
+- 5 年、8 年寿命
+- 清洗可恢复性
+- 大规模项目可复制性
+- 备件体系和历史数据
+
+而不是论文里“flux 提高 25%”。
+
+所以即使国内 TFN 真的在某些指标上不错，客户也会问：
+
+- 你有几万小时数据吗？
+- 你有中东/沿海高盐项目吗？
+- 你有大规模元件运行历史吗？
+
+这不是学术问题，是**信任门槛**问题。 [[patents.google.com]](https://patents.google.com/patent/CN112546877B/zh), [[eeer.org]](https://www.eeer.org/journal/view.php?doi=10.4491/eer.2024.662)
+
+---
+
+## 4.2 国内膜行业历史上更擅长“追赶型放大”，不一定擅长“前沿材料工业化”
+
+中国反渗透膜行业这几年进步很快，但公开行业分析仍指出：
+
+- 国际品牌在高端市场仍占主导
+- 国产品牌在小型工业项目和部分中低端应用更有价格优势
+- 高端海淡和工业高难度场景仍偏向国外成熟品牌 [[patents.google.com]](https://patents.google.com/patent/CN112546877B/zh)
+
+这意味着国内企业过去更成功的是：
+
+- 把现有成熟路线做便宜、做适配、做本地化
+
+而 TFN 需要的是：
+
+- 新材料
+- 新工艺
+- 新失效机理控制
+- 新可靠性验证体系
+
+这对企业能力要求更高。
+
+---
+
+## 4.3 资本愿意投“故事”，但产业要吃“慢钱”
+
+TFN 很容易讲出好故事：
+
+- 高通量
+- 低能耗
+- 高端替代
+- 纳米科技
+
+所以早期融资并不难。普希环保在 2024 年完成 A 轮融资，融资用途也明确包括新产线和自动化一体线建设。 [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837), [[booksci.cn]](https://www.booksci.cn/article/121943.htm)
+
+但真正产业化需要：
+
+- 很长验证周期
+- 很重 CAPEX
+- 很强现场服务
+- 很慢市场导入
+
+这就导致“科研转化叙事”和“真实工业兑现”之间有时间差。
+
+---
+
+## 4.4 缺少长周期第三方验证体系
+
+你前面一直在问 DNV、万小时 degradation、平台能力，这其实已经点中了根本。
+
+TFN 如果要真正起来，不能只靠厂家自己讲，而要有：
+
+- 长周期测试平台
+- 第三方评价
+- 元件级 / 系统级标准方法
+- 不同工况下的衰减规律
+
+现在国内在这方面比过去强了，但整体上仍不如国际成熟品牌的数据体系完整。
+
+---
+
+## 4.5 “从膜片到元件到系统”三段链条没完全贯通
+
+很多国内团队强在膜片，少数公司开始做到元件，但真正难的是系统端：
+
+- 膜片性能 ≠ 元件性能
+- 元件性能 ≠ 系统收益
+- 系统收益 ≠ 项目可采纳
+
+普希环保现在比较被看重的一点，就是它公开强调已经建立了“**从膜片到膜元件到系统**”的工艺流程和平台。 [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837), [[仿生与纳米化学实验室 俞书宏教授课题组]](http://staff.ustc.edu.cn/~yulab/group.html)
+
+这说明行业已经意识到：  
+**光有膜片论文没有用，必须打通整个链条。**
+
+---
+
+# 5）那是不是代表中国 TFN 没希望？
+
+我觉得不是。  
+更准确地说：
+
+> **现在是“论文领先于产品”，但已经开始出现少数产业化苗头。**
+
+至少从公开信息看，国内已经有几个积极信号：
+
+1. **出现了明确以 TFN 为核心定位的企业**，而不是只在论文里做。 [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837)
+2. **开始建设规模化涂布线**，说明不是停留在克级、片级实验。 [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[163.com]](https://www.163.com/dy/article/JJRGIOCF055602MP.html)
+3. **应用开始从实验用水走向新能源、半导体、石化、海淡等高价值场景**。 [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837), [[仿生与纳米化学实验室 俞书宏教授课题组]](http://staff.ustc.edu.cn/~yulab/group.html)
+4. 国内头部研究团队在二维纳米复合薄膜、MOF 膜、仿生结构膜、连续化组装上确实在积累方法学基础。 [[Proshare I...turing ...]](http://psimembrane.com/), [[sohu.com]](https://www.sohu.com/a/957202328_122486503), [[sohu.com]](https://www.sohu.com/a/845901193_362225), [[booksci.cn]](https://www.booksci.cn/literature/145411938.htm)
+
+所以不是“没有产业化”，而是**刚开始进入真正产业化早期**，距离“大规模成熟商业化”还有明显距离。
+
+---
+
+# 6）一句最实在的判断
+
+> **中国在 TFN 上的问题，不是“科研不行”，而是“从科研突破到工业可信产品”这一步太难，且需要长周期验证、稳定制造和客户信任一起到位。**
+
+再说得更直白一点：
+
+- **学者已经证明“原理上可行”**
+- **企业还在证明“工程上可信”**
+- **市场还没完全相信“商业上值得大规模切换”**
+
+这三者之间天然有时间差。
+
+---
+
+# 7）如果站在产业角度，接下来最关键的不是再发更多 TFN 论文，而是这 4 件事
+
+## ① 做出真正稳定的卷对卷产线
+
+不是一条演示线，而是长期稳定交付。 [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[163.com]](https://www.163.com/dy/article/JJRGIOCF055602MP.html)
+
+## ② 做出 1–3 年连续工况数据
+
+尤其是：
+
+- 海水
+- 高盐废水
+- 清洗循环
+- 抗氯 / 抗氧化 / 抗压实
+
+## ③ 做元件级和系统级收益证明
+
+客户不会为“膜片性能”买单，只会为：
+
+- 能耗下降
+- 更少 CIP
+- 更长更换周期
+- 更高 recovery  
+    买单。
+
+## ④ 找对切入场景
+
+我觉得国内 TFN **不一定先在大规模常规 SWRO 爆发**，更可能先在：
+
+- 高盐废水
+- 新能源材料分离
+- 半导体水回用
+- 特种耐酸/耐碱 / 抗污染场景  
+    先形成壁垒。 [[m.163.com]](https://m.163.com/dy/article/JLUV360605118KMO.html), [[m.thepaper.cn]](https://m.thepaper.cn/baijiahao_29472837), [[仿生与纳米化学实验室 俞书宏教授课题组]](http://staff.ustc.edu.cn/~yulab/group.html)
+
+---
+
+如果你愿意，我可以下一步直接给你做两种版本之一：
+
+1. **管理层版**：  
+    “为什么中国 TFN 论文多、产业化慢”——5 条 bullet，适合 PPT
+    
+2. **技术版**：  
+    “TFN 产业化从实验室到量产的关键失效点清单”  
+    （分散、界面缺陷、卷对卷一致性、元件封装、长周期衰减）
+
+
+# TFN在中国OEM中的落地情况？
+
+可以，按你问的 4 个点直接给结论。  
+我尽量只讲**公开资料里能落地核实的事实**，不做过度推断。
+
+---
+
+# 1）公司在哪儿？
+
+## 总部 / 研发办公地点：苏州
+
+苏州普希环保科技有限公司总部公开地址在：
+
+**苏州工业园区金鸡湖大道 99 号，苏州纳米城西北区 01 栋 401 室（NW-01#401）**。  
+这个地址在爱企查、企查查、以及公司对外英文联系页面上是一致的。 [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_25465613261230?t=0), [[qcc.com]](https://www.qcc.com/cassets/a8929f654baf536a5cfce5d357acb3ce.html), [[psimembrane.com]](https://www.psimembrane.com/contact/)
+
+从公开表述看，苏州这一端更像是：
+
+- 总部
+- 研发中心
+- 对外商务/平台运营中心  
+    而不是最新的大规模制造基地。 [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_25465613261230?t=0), [[sipac.gov.cn]](https://www.sipac.gov.cn/kjzszx/jqhd/202411/e86cbaeff6c74c36ab3971f9db642941.shtml), [[psimembrane.com]](https://www.psimembrane.com/contact/)
+
+---
+
+# 2）生产线在哪儿？
+
+## 目前公开最明确的大规模生产基地：盐城
+
+普希在盐城有专门的制造基地公司：
+
+**普希（盐城）膜科技有限公司**  
+公开地址是：
+
+**江苏省盐城市亭湖区环保科技城汇金路 7 号 1 幢 1003 室（28）**。 [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_55337188911670), [[qcc.com]](https://www.qcc.com/firm/f679ac876929d64d15c9b1d6d45b64aa.html), [[xunbiaobao.baidu.com]](https://xunbiaobao.baidu.com/biddingDetail?id=a6b082c1230c5a965c4d0650ec2454a960c70aa9&source=seo)
+
+---
+
+## 生产线情况
+
+公开资料里最关键的信息是：
+
+- **国内首条年产 500 万平方米 TFN 纳米复合薄膜涂布线**已在盐城环保科技城运行/投产。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[sohu.com]](https://www.sohu.com/a/1027269165_121835335)
+- 该盐城基地是苏州普希环保打造的**研发生产基地**，于 **2024 年落户**，并在报道中表述为**去年年底竣工投产**（按 2026 年 5 月报道理解，即 2025 年底前后投产）。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[sohu.com]](https://www.sohu.com/a/1027269165_121835335)
+- 公司官网英文联系方式也把盐城列为 **“Proshare Membrane Technology Industrial Park”**，地址同样是**盐城市亭湖区环保科技城汇金路 7 号**。 [[psimembrane.com]](https://www.psimembrane.com/contact/)
+
+---
+
+## 还有一条关于装置/厂房的信息
+
+在环评公示里，还能看到盐城项目的进一步描述：
+
+- 项目名称是**“新一代纳米复合薄膜（TFN膜）装置的研发与产业化项目”**；
+- 拟投资 **1 亿元人民币**；
+- 租赁厂房面积约 **9577.62 平方米**；
+- 建成后可年产 **1000 套件 TFN 膜装置**。 [[xunbiaobao.baidu.com]](https://xunbiaobao.baidu.com/biddingDetail?id=a6b082c1230c5a965c4d0650ec2454a960c70aa9&source=seo)
+
+这个信息说明：  
+盐城不只是“膜片涂布”，还在往**膜装置/膜元件/成套化能力**延伸。 [[xunbiaobao.baidu.com]](https://xunbiaobao.baidu.com/biddingDetail?id=a6b082c1230c5a965c4d0650ec2454a960c70aa9&source=seo)
+
+---
+
+# 3）融资到什么阶段了？
+
+## 公开最一致的说法：**A 轮已完成**
+
+2024 年 11 月，36 氪与苏州工业园区科创系统公开信息都提到：
+
+- 普希环保完成**数千万元人民币 A 轮融资**；
+- 领投方/投资方包括**咏圣资本**和**苏州科创基金（或园区科创基金）**；
+- 财务顾问是**启辰资本**；
+- 资金主要用于：
+    - 新产线
+    - 厂房建设
+    - 一条铸涂卷自动化一体线。 [[eu.36kr.com]](https://eu.36kr.com/zh/newsflashes/3034398868730121), [[sipac.gov.cn]](https://www.sipac.gov.cn/kjzszx/jqhd/202411/e86cbaeff6c74c36ab3971f9db642941.shtml), [[nanoplatform.cn]](https://www.nanoplatform.cn/new/13064/)
+
+---
+
+## 历史轮次
+
+公开资料里还能看到更早融资：
+
+- **2023 年完成 Pre-A 轮融资**，金额为数千万元，领投方为**兴杭创投**，跟投方为**富德创投**。 [[m.36kr.com]](https://m.36kr.com/p/2211889722258823)
+- 一些企业入网/企业信息页面还提到：
+    - **2020 年天使轮**
+    - **2023 年 Pre-A**
+    - **2024 年 A 轮**。 [[ecp.capitalwater.cn]](https://ecp.capitalwater.cn/netPublicity/2025-03-03/115687.html), [[baike.baidu.com]](https://baike.baidu.com/item/%E8%8B%8F%E5%B7%9E%E6%99%AE%E5%B8%8C%E7%8E%AF%E4%BF%9D%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/52011012)
+
+---
+
+## 关于“现在是不是 A+ / A轮后”
+
+这里要稍微谨慎一点：
+
+- 爱企查页面把主公司打了 **“A+轮”** 标签； [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_25465613261230?t=0)
+- 但 36 氪、园区官方、企查查公开描述里，最明确且可追溯的还是 **2024 年 A 轮完成**。 [[eu.36kr.com]](https://eu.36kr.com/zh/newsflashes/3034398868730121), [[sipac.gov.cn]](https://www.sipac.gov.cn/kjzszx/jqhd/202411/e86cbaeff6c74c36ab3971f9db642941.shtml), [[qcc.com]](https://www.qcc.com/cassets/a8929f654baf536a5cfce5d357acb3ce.html)
+
+### 所以更稳妥的表述是：
+
+> **公开可核实的融资进展至少到 A 轮；部分企业信息平台标签已显示 A+，但最清晰、最有来源链条的公告仍是 2024 年 A 轮。** [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_25465613261230?t=0), [[eu.36kr.com]](https://eu.36kr.com/zh/newsflashes/3034398868730121), [[qcc.com]](https://www.qcc.com/cassets/a8929f654baf536a5cfce5d357acb3ce.html)
+
+---
+
+# 4）技术来自哪儿？
+
+这个问题最容易被讲得过头，所以我分成 **“能明确说的”** 和 **“不能过度推断的”** 两层。
+
+---
+
+## 4.1 能明确说的：核心技术基础来自创始团队自身
+
+公开资料显示：
+
+- 普希环保由**国家级海外高层次人才领衔的海外归国博士团队**创立。 [[ecp.capitalwater.cn]](https://ecp.capitalwater.cn/netPublicity/2025-03-03/115687.html), [[m.36kr.com]](https://m.36kr.com/p/2211889722258823)
+- 创始人 **林小锋** 是**法国斯特拉斯堡大学材料学博士**。 [[m.36kr.com]](https://m.36kr.com/p/2211889722258823), [[sohu.com]](https://www.sohu.com/a/985669904_120988576)
+- 上海证券报/中国证券网等报道进一步写到：  
+    林小锋在法国读博期间，师从**法国国家科学研究中心（CNRS）高分子自组装薄膜领域教授**，由此积累了膜领域产业化技术经验。 [[sohu.com]](https://www.sohu.com/a/985669904_120988576), [[cnstock.com]](https://www.cnstock.com/commonDetail/636726)
+
+### 所以更准确地讲：
+
+> **普希的技术源头首先是林小锋及其归国博士团队长期积累的高分子/纳米复合薄膜研发与产业化经验。** [[m.36kr.com]](https://m.36kr.com/p/2211889722258823), [[sohu.com]](https://www.sohu.com/a/985669904_120988576), [[ecp.capitalwater.cn]](https://ecp.capitalwater.cn/netPublicity/2025-03-03/115687.html)
+
+---
+
+## 4.2 其次，有明确的外部合作来源：清华苏州环境创新研究院
+
+盐城 2026 年报道中明确提到：
+
+- 普希与**清华苏州环境创新研究院**建立了**深度战略合作关系**；
+- 合作内容包括：
+    - 膜材料前沿技术研发
+    - 环保领域创新应用
+    - 高端人才联合培养。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[sohu.com]](https://www.sohu.com/a/1027269165_121835335)
+
+这说明它的技术体系**不是完全封闭单一来源**，而是：
+
+- 创始团队自研为主
+- 外加研究院合作加速技术转化。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[sohu.com]](https://www.sohu.com/a/1027269165_121835335), [[sipac.gov.cn]](https://www.sipac.gov.cn/kjzszx/jqhd/202411/e86cbaeff6c74c36ab3971f9db642941.shtml)
+
+---
+
+## 4.3 不能过度推断的地方
+
+公开资料**没有**明确说：
+
+- “技术完全来自清华”
+- 或“技术是某高校课题整体转让”
+- 或“某篇论文直接产业化变成普希产品”
+
+所以我不建议直接说“技术来自清华苏州环境创新研究院”——那样会说过头。  
+更准确的说法应是：
+
+> **技术主体来源于林小锋带领的归国博士团队，自主研发为主；同时与清华苏州环境创新研究院有明确、公开的深度合作关系，用于前沿研发和产业转化。** [[sohu.com]](https://www.sohu.com/a/985669904_120988576), [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[ecp.capitalwater.cn]](https://ecp.capitalwater.cn/netPublicity/2025-03-03/115687.html)
+
+---
+
+# 5）给你一个最简版结论（适合你拿去讲）
+
+## 一句话版
+
+> **普希环保总部在苏州纳米城，规模化生产线在盐城亭湖环保科技城；公开融资至少已经到 A 轮，A 轮资金主要投向盐城新产线和自动化产线；技术主体来自林小锋带领的归国博士团队，并与清华苏州环境创新研究院开展深度合作。** [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_25465613261230?t=0), [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[eu.36kr.com]](https://eu.36kr.com/zh/newsflashes/3034398868730121), [[sohu.com]](https://www.sohu.com/a/985669904_120988576)
+
+---
+
+# 6）信息整理表（便于你快速看）
+
+|项目|公开信息|
+|---|---|
+|公司总部|苏州工业园区金鸡湖大道99号苏州纳米城西北区01栋401室（NW-01#401） [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_25465613261230?t=0), [[qcc.com]](https://www.qcc.com/cassets/a8929f654baf536a5cfce5d357acb3ce.html), [[psimembrane.com]](https://www.psimembrane.com/contact/)|
+|生产基地|江苏省盐城市亭湖区环保科技城汇金路7号 [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_55337188911670), [[qcc.com]](https://www.qcc.com/firm/f679ac876929d64d15c9b1d6d45b64aa.html), [[psimembrane.com]](https://www.psimembrane.com/contact/)|
+|生产线|国内首条年产500万平方米 TFN 纳米复合薄膜涂布线，已在盐城投产/运行 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[sohu.com]](https://www.sohu.com/a/1027269165_121835335)|
+|装置项目|盐城新一代 TFN 膜装置研发与产业化项目，拟投资1亿元 [[xunbiaobao.baidu.com]](https://xunbiaobao.baidu.com/biddingDetail?id=a6b082c1230c5a965c4d0650ec2454a960c70aa9&source=seo)|
+|融资阶段|至少已完成 A 轮；2023 Pre-A，2024 A轮；部分平台标签显示 A+ [[m.36kr.com]](https://m.36kr.com/p/2211889722258823), [[eu.36kr.com]](https://eu.36kr.com/zh/newsflashes/3034398868730121), [[aiqicha.baidu.com]](https://aiqicha.baidu.com/company_detail_25465613261230?t=0)|
+|A轮用途|新产线、厂房建设、铸涂卷自动化一体线 [[eu.36kr.com]](https://eu.36kr.com/zh/newsflashes/3034398868730121), [[sipac.gov.cn]](https://www.sipac.gov.cn/kjzszx/jqhd/202411/e86cbaeff6c74c36ab3971f9db642941.shtml)|
+|技术来源|林小锋归国博士团队自主研发为主；与清华苏州环境创新研究院深度合作 [[sohu.com]](https://www.sohu.com/a/985669904_120988576), [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/xiehuidongtai/2026-05-27/49653.html), [[ecp.capitalwater.cn]](https://ecp.capitalwater.cn/netPublicity/2025-03-03/115687.html)|
+
+---
+
+如果你要，我下一步可以继续帮你做两版更适合你用的内容：
+
+1. **尽调版**：  
+    普希环保“公司-产线-融资-技术来源-风险点”一页摘要
+    
+2. **对标版**：  
+    普希 vs LG NanoH2O / 沃顿 / 苏瑞膜 的产业化成熟度对比
+
+
+
+# 中国学者在抗污染 抗生物污染这个方向，有哪些主要成果？
+
+有，而且**中国学者在“抗污染 / 抗生物污染”这条线上，近几年其实做出了几类比较有代表性的成果**。  
+如果只讲**跟海淡 RO 膜最相关**、且**公开可明确对应到中国团队**的，我建议你按下面 5 类来理解。
+
+---
+
+# 先给一个总判断
+
+> **中国学者在这个方向的优势，不是单纯“发了很多抗污涂层论文”，而是已经开始在三个层面形成成果：**
+> 
+> 1. **污染机理识别**（为什么会脏、为什么会更脏）；
+> 2. **膜表面结构设计**（怎么让污染物不容易附着/堵孔）；
+> 3. **抗菌+抗粘附一体化策略**（不是只杀菌，而是同时阻止生物膜形成）。 [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm), [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/kejidongtai/2025-01-14/48992.html)
+
+但也要实事求是地说：
+
+> **大部分成果仍然停留在膜片级、实验室级或小规模过程验证；真正做到海淡场景下的长周期元件级验证，还不算多。** 从公开报道看，目前更多是“材料和机理领先”，而不是“规模工程全面落地”。 [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[Chinese Re...Reduce ...]](http://english.ipe.cas.cn/Newsroom/ResearchNews/202501/t20250108_898140.html), [[zs.njust.edu.cn]](https://zs.njust.edu.cn/13/16/c4621a332566/page.htm)
+
+---
+
+# 1）天津工业大学胡云霞团队：**从“膜-污染物相互作用”本质上做耐污 RO 膜**
+
+这是目前中国在 **RO膜抗污染** 方向上非常代表性的成果之一。  
+2025 年，天津工业大学胡云霞团队在 **Nature Water** 发表工作，通过**气-固界面反应**把二甲胺（DMA）接枝到聚酰胺（PA）表面，实现 RO 膜**甲基化**，核心目标是**阻断羧基引发的强相互作用**，从而减少有机小分子污染物进入 PA 内部并造成堵孔。 [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membrane.t...ong.edu.cn]](https://membrane.tiangong.edu.cn/2025/0617/c8506a106199/page.htm)
+
+### 这项工作的主要成果
+
+- 改性后膜的**水渗透系数达到 3.84 L·m⁻²·h⁻¹·bar⁻¹**，同时 **NaCl 截留率保持在 99.05%**，说明它不是靠牺牲选择性换抗污。 [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membrane.t...ong.edu.cn]](https://membrane.tiangong.edu.cn/2025/0617/c8506a106199/page.htm)
+- 他们提出的关键观点很重要：  
+    **RO膜污染不只是“表面挂污”，很多小分子污染物会进入 PA 结构内部形成堵孔**；因此提升耐污性的关键，不只是让表面更光滑/更亲水，而是要**降低污染物与膜表面的结合能，抑制其渗入 PA 内部**。 [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membrane.t...ong.edu.cn]](https://membrane.tiangong.edu.cn/2025/0617/c8506a106199/page.htm)
+- 研究结合了**分子动力学模拟**，把“为什么更耐污”从经验现象推进到了分子层面的机制解释。 [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membrane.t...ong.edu.cn]](https://membrane.tiangong.edu.cn/2025/0617/c8506a106199/page.htm)
+
+### 工程意义
+
+这类成果最有价值的地方在于：
+
+> 不再只是“做一个亲水层”，而是开始真正回答  
+> **“RO 膜为什么会因小分子污染而快速通量衰减，以及怎么从 PA 表面化学上解决这个问题”。** [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membrane.t...ong.edu.cn]](https://membrane.tiangong.edu.cn/2025/0617/c8506a106199/page.htm)
+
+---
+
+# 2）中科院过程工程所（万印华团队）：**抗菌 + 抗粘附“双功能”抗生物污染 RO 膜**
+
+如果你关心的是**抗生物污染（biofouling）**，这个团队的工作很典型。  
+2025 年，中科院过程工程研究所万印华团队开发了**双功能 RO 膜**，通过在膜表面同时接枝**离子液体单体**和**磺酸基单体**，实现了：
+
+- **抗菌**（离子液体基团）
+- **抗粘附**（磺酸基增强水合层、降低附着）
+- 并且尽量不牺牲脱盐性能。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/kejidongtai/2025-01-14/48992.html), [[Chinese Re...Reduce ...]](http://english.ipe.cas.cn/Newsroom/ResearchNews/202501/t20250108_898140.html), [[eurekalert.org]](https://www.eurekalert.org/news-releases/1070232)
+
+### 主要成果
+
+- 文章明确指出，他们希望解决的是：  
+    **生物污染约占 RO 污染问题的 45% 以上**，且单纯靠预处理很难长期压住。 [[Chinese Re...Reduce ...]](http://english.ipe.cas.cn/Newsroom/ResearchNews/202501/t20250108_898140.html), [[eurekalert.org]](https://www.eurekalert.org/news-releases/1070232)
+- 该双功能膜对 **E. coli** 和 **S. aureus** 均表现出较强杀菌作用，协会转载中给出的数据分别约为 **98.2% 和 96.1%**。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/kejidongtai/2025-01-14/48992.html)
+- 该膜同时对 **BSA、腐殖酸（HA）和海藻酸钠（SA）** 等典型污染物也有较好的抗污表现，且碱洗后可恢复通量并保持很高的杀菌率。 CAS 英文新闻还提到，碱洗后对 E. coli 的杀菌率可保持 **99.8%**。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/kejidongtai/2025-01-14/48992.html), [[Chinese Re...Reduce ...]](http://english.ipe.cas.cn/Newsroom/ResearchNews/202501/t20250108_898140.html), [[eurekalert.org]](https://www.eurekalert.org/news-releases/1070232)
+
+### 工程意义
+
+这条路线的价值在于它不是只做“抗菌”，而是明确走向：
+
+> **抗菌 + 抗粘附一体化**。
+
+这点非常关键。因为在 RO 系统里，单纯杀菌并不等于不形成生物膜，死菌、EPS 和其他污染物依然会在膜面沉积。万印华团队这项工作的意义，就是把中国在 RO 抗生物污染方向从“抗菌材料思路”推进到了“**双功能界面设计**”思路。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/kejidongtai/2025-01-14/48992.html), [[Chinese Re...Reduce ...]](http://english.ipe.cas.cn/Newsroom/ResearchNews/202501/t20250108_898140.html), [[eurekalert.org]](https://www.eurekalert.org/news-releases/1070232)
+
+---
+
+# 3）清华大学胡洪营团队：**在 RO 生物污堵机理上做了“反直觉”的关键发现**
+
+这项工作不是直接做新膜，但对 RO 生物污染控制非常重要。  
+2019 年，清华大学胡洪营团队在 **Water Research** 报道：**氯消毒并没有像传统想象那样缓解再生水 RO 的生物污堵，反而会显著加重污堵。** [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm)
+
+### 主要发现
+
+- 氯虽然能降低进水中的总微生物量，但**不能完全杀灭所有菌**。 [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm)
+- 剩余的耐氯菌会变得更占优势，并且**分泌更多 EPS**，形成更厚、更黏、更难控制的污堵层。 [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm)
+- 这个结果相当于**颠覆了“氯消毒预处理一定有利于抑制 RO 生物污染”**的传统观念。 [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm)
+
+### 工程意义
+
+这项成果的意义在于：
+
+> 中国团队不仅在做“怎么抗污”，还在做  
+> **“现有控制策略可能为什么失效，甚至适得其反”** 的机制研究。
+
+这对海淡和再生水 RO 系统都很重要，因为它提醒业界：  
+**预处理和膜污染之间不是简单线性关系，微生物群落结构会重塑整个污堵过程。** [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm)
+
+---
+
+# 4）南开大学郭晓燕团队：**把抗生物污染从“一次性表面抗菌”推进到“可持续释放控制”**
+
+虽然这项工作主要是在**动态纤维膜 / UF-MBR 场景**下做的，不是直接做 RO 海淡膜，但它代表了中国学者在**可持续抗生物污染机制**上的很强探索，对 RO 也有启发意义。  
+2024 年，南开大学郭晓燕团队在 **Nature Water** 报道了一种**智能化内界动态纤维膜**，利用膜内部丰富结合位点持续“负载-控释”生物膜抑制分子 **D-酪氨酸**，实现了**非杀菌、可持续**的 biofouling 控制。 [[env.nankai.edu.cn]](https://env.nankai.edu.cn/2024/0222/c14128a536353/page.htm)
+
+### 这项成果的亮点
+
+- 它不是靠暴露在表面的抗菌剂硬杀菌，而是把**抗生物污染分子放到膜内部去“储存+释放”**。 [[env.nankai.edu.cn]](https://env.nankai.edu.cn/2024/0222/c14128a536353/page.htm)
+- 团队通过三次连续“负载-控释”循环证明，其生物污染控制性能能更持久。 [[env.nankai.edu.cn]](https://env.nankai.edu.cn/2024/0222/c14128a536353/page.htm)
+- 将这种动态膜装到 UF/MBR 中后，**185 天运行**仍表现出较好的可逆污染恢复能力。 [[env.nankai.edu.cn]](https://env.nankai.edu.cn/2024/0222/c14128a536353/page.htm)
+
+### 工程意义
+
+这项工作给这个方向带来的新东西是：
+
+> **抗生物污染不一定非得靠杀菌，也可以靠持续干扰生物膜形成过程。**
+
+这对 RO 膜未来的 antibiofouling 设计很有启发，因为海淡 RO 最大痛点之一就是  
+**强杀菌策略常常伴随材料兼容性和长期稳定性问题**。 [[env.nankai.edu.cn]](https://env.nankai.edu.cn/2024/0222/c14128a536353/page.htm), [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm)
+
+---
+
+# 5）哈工大马军团队：**把“抗污”从静态表面改性推进到“动态抗污机制”**
+
+2025 年，哈工大马军院士团队在 **Nature Communications** 报道了一个很有意思的方向：  
+不是简单做一个固定亲水层，而是用**超分子动态性**强化“**抵御-驱除**”协同抗污染机制。 [[env.hit.edu.cn]](https://env.hit.edu.cn/2025/0827/c8343a376702/page.htm), [[waterlab.hit.edu.cn]](https://waterlab.hit.edu.cn/2025/0807/c5107a376187/page.htm)
+
+### 主要成果
+
+- 团队构建了由 **PDMS 和环糊精（CD）组成的聚轮烷**超分子层，形成**动态亲水-低表面能非均相微区**。 [[env.hit.edu.cn]](https://env.hit.edu.cn/2025/0827/c8343a376702/page.htm), [[waterlab.hit.edu.cn]](https://waterlab.hit.edu.cn/2025/0807/c5107a376187/page.htm)
+- 这种动态结构使污染物与膜表面的接触更不稳定，在低切向流甚至静态条件下也能更容易被驱离。 [[env.hit.edu.cn]](https://env.hit.edu.cn/2025/0827/c8343a376702/page.htm), [[waterlab.hit.edu.cn]](https://waterlab.hit.edu.cn/2025/0807/c5107a376187/page.htm)
+- 报道给出的代表性数据包括：  
+    **20℃ 下渗透通量约 500 LMH·bar⁻¹，过滤 BSA 时通量衰减率 14.2%，恢复率 99.7%**；对酵母菌、腐殖酸、海藻酸钠、乳化油等污染物都表现出较好抗污稳定性。 [[env.hit.edu.cn]](https://env.hit.edu.cn/2025/0827/c8343a376702/page.htm), [[waterlab.hit.edu.cn]](https://waterlab.hit.edu.cn/2025/0807/c5107a376187/page.htm)
+
+### 工程意义
+
+这条路线很值得关注，因为它开始从“表面越稳定越好”转向：
+
+> **表面适度动态，反而更不容易让污染物稳定黏住。**
+
+这类思路现在还主要在更广义的水处理膜上验证，但对海淡 RO 方向很有启发。 [[env.hit.edu.cn]](https://env.hit.edu.cn/2025/0827/c8343a376702/page.htm), [[waterlab.hit.edu.cn]](https://waterlab.hit.edu.cn/2025/0807/c5107a376187/page.htm)
+
+---
+
+# 6）如果你只想问“海淡 RO 直接相关”的中国代表成果，最值得记住谁？
+
+我建议你重点记下面 4 个：
+
+## 直接与 RO 膜抗污 / 抗生物污染最相关
+
+1. **天津工业大学 胡云霞团队**  
+    ——RO 膜表面甲基化，解决小分子有机污染引起的堵孔和快速衰减问题。 [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membrane.t...ong.edu.cn]](https://membrane.tiangong.edu.cn/2025/0617/c8506a106199/page.htm)
+    
+2. **中科院过程工程所 万印华团队**  
+    ——“抗菌 + 抗粘附”双功能 RO 膜，正面切入 biofouling。 [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/kejidongtai/2025-01-14/48992.html), [[Chinese Re...Reduce ...]](http://english.ipe.cas.cn/Newsroom/ResearchNews/202501/t20250108_898140.html), [[eurekalert.org]](https://www.eurekalert.org/news-releases/1070232)
+    
+3. **清华大学 胡洪营团队**  
+    ——揭示氯消毒会加重 RO 生物污堵，属于机理层面的关键成果。 [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm)
+    
+4. **南京理工大学 张轩团队**  
+    ——虽然重点是耐氯聚酯 RO 膜，但其成果也同时在**抗有机污染、抗无机结垢**方面表现突出，是“更耐受、更少污染”的新膜体系。 [[zs.njust.edu.cn]](https://zs.njust.edu.cn/13/16/c4621a332566/page.htm)
+    
+
+---
+
+# 7）一句总结（给管理层/汇报用）
+
+> **中国学者在 RO 抗污染与抗生物污染方向的主要成果，已经从“做亲水层、做抗菌层”上升到“识别污堵机制、调控膜-污染物分子作用、构建抗菌+抗粘附双功能界面，以及发展可持续释放/动态驱污新机制”。** [[clxy.tiangong.edu.cn]](https://clxy.tiangong.edu.cn/2025/0106/c3662a101009/page.htm), [[membranes.com.cn]](https://www.membranes.com.cn/xingyedongtai/kejidongtai/2025-01-14/48992.html), [[env.tsinghua.edu.cn]](https://www.env.tsinghua.edu.cn/info/1129/2353.htm), [[env.nankai.edu.cn]](https://env.nankai.edu.cn/2024/0222/c14128a536353/page.htm), [[env.hit.edu.cn]](https://env.hit.edu.cn/2025/0827/c8343a376702/page.htm)
+
+---
+
+如果你愿意，我可以继续往下给你两种更好用的版本：
+
+## 版本 A：**按人来列**
+
+- 胡云霞
+- 万印华
+- 胡洪营
+- 张轩
+- 郭晓燕
+- 马军
+
+每个人 3 条成果 + 1 条工程意义
+
+## 版本 B：**按技术路线来列**
+
+- 表面化学减吸附
+- 抗菌+抗粘附双功能
+- 预处理/群落机制控制
+- 动态释放型 antibiofouling
+- 动态驱污界面
+
+这个更适合你做一页技术路线图。
+
+### 新技术产业化的潜力
+
+第一梯队：相对最接近
+
+1. 张轩（南京理工大学）
+
+2. 胡云霞（天津工业大学）
+
+第二梯队：有工程验证，但离商品化还有明显距离
+
+3. 郭晓燕（南开大学）
+
+4. 马军（哈工大）
+
+第三梯队：更偏科研成果 / 机制或膜片级验证
+
+5. 万印华（中科院过程工程所）
+
+6. 胡洪营（清华大学）
