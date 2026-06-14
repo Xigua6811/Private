@@ -8,3 +8,19 @@
 
 **更新页面**：
 
+
+
+## [2026-06-14] ingest | RO膜技术发展方向及TFN应用与产业化分析
+
+**创建页面**：[[sources/260612反渗透膜的发展趋势.md]], [[entities/dupont.md]], [[entities/普希环保.md]], [[entities/lg-chem.md]], [[entities/俞书宏.md]], [[entities/程群峰.md]], [[entities/王新萍.md]], [[entities/万印华.md]], [[entities/张轩.md]], [[entities/天津工业大学.md]], [[entities/林小锋.md]], [[entities/郭晓燕.md]], [[entities/胡洪营.md]], [[entities/朱玉长.md]], [[entities/靳健.md]], [[entities/马军.md]], [[entities/清华苏州环境创新研究院.md]], [[entities/盐城.md]], [[entities/陈向荣.md]], [[entities/时代沃顿.md]], [[entities/hydranautics.md]], [[entities/toray.md]], [[entities/碧水源.md]], [[entities/苏州纳米城.md]], [[entities/盐城环保科技城.md]], [[entities/哈工大.md]], [[entities/南开大学.md]], [[entities/南京理工大学.md]], [[entities/苏州大学.md]], [[entities/清华大学.md]], [[entities/中国科学院过程工程研究所.md]], [[entities/menachem-elimelech.md]], [[entities/青岛科技大学.md]], [[entities/天津工业大学.md]], [[entities/津膜科技.md]], [[entities/veolia.md]], [[concepts/tfn.md]], [[concepts/tfc.md]], [[concepts/表面化学增强.md]], [[concepts/抗污染性.md]], [[concepts/甲基化.md]], [[concepts/界面催化聚合.md]], [[concepts/双功能表面.md]], [[concepts/脱氯.md]], [[concepts/抗污染性.md]], [[concepts/耐氯性.md]], [[concepts/甲基化.md]], [[concepts/d-酪氨酸.md]], [[concepts/超分子动态抗污.md]], [[concepts/游离氯.md]], [[concepts/聚酯ro膜.md]], [[concepts/渗透性-选择性权衡.md]], [[concepts/智能运行.md]], [[concepts/低压ro.md]], [[concepts/抗硅垢.md]], [[concepts/纳米限域水策略.md]], [[concepts/亚硫酸氢钠偏亚硫酸钠.md]], [[concepts/脱氯.md]], [[concepts/液态金属交联致密化策略.md]], [[concepts/双限域共组装策略.md]], [[concepts/磺酰胺接枝.md]], [[concepts/自清洁膜.md]], [[concepts/低附着能表面.md]], [[concepts/氧化还原自由基聚合.md]]
+
+**更新页面**：[[天津工业大学]], [[万印华]], [[张轩]], [[胡洪营]], [[南京理工大学]], [[清华大学]], [[青岛科技大学]]
+
+
+
+## [2026-06-14] ingest | 海水淡化技术与膜材料研究综述
+
+**创建页面**：[[sources/260528海水淡化基础.md]], [[entities/天津大学.md]], [[entities/浙江工业大学.md]], [[entities/清华大学.md]], [[entities/高从堦.md]], [[entities/中国海洋大学.md]], [[entities/天津工业大学.md]], [[entities/杭州科百特.md]], [[entities/王琳.md]], [[entities/黄霞.md]], [[entities/王志.md]], [[entities/舟山.md]], [[entities/曲良体.md]], [[entities/王海辉.md]], [[entities/toray.md]], [[entities/陶氏.md]], [[entities/苏山岛海水淡化生活供水示范工程.md]], [[entities/海派特膜科技河北有限公司.md]], [[entities/hydranautics.md]], [[entities/青岛10万m³d淡化水掺混工程.md]], [[entities/先进分离膜材料全国重点实验室.md]], [[entities/渤海.md]], [[entities/沧州工苑新型膜材料有限公司.md]], [[entities/沧州研究院.md]], [[entities/津膜科技.md]], [[entities/杭州水处理技术研究开发中心.md]], [[entities/海兴电力科技股份有限公司.md]], [[entities/净膜新材料河北省有限公司.md]]
+
+**更新页面**：
+

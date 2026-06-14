@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/260612反渗透膜的发展趋势.md",
+                "file": "concepts/脱盐率.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260612反渗透膜的发展趋势"
+              "title": "脱盐率"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,34 +271,35 @@
       "karpathywiki:Ingest current file": false
     }
   },
-  "active": "a9e53e8d35b17d77",
+  "active": "e2d072f553710f0e",
   "lastOpenFiles": [
-    "wiki/concepts/双功能表面.md",
-    "wiki/concepts/界面催化聚合.md",
-    "wiki/concepts/甲基化.md",
-    "wiki/concepts/抗污染性.md",
-    "wiki/concepts/表面化学增强.md",
-    "wiki/concepts/tfc.md",
-    "wiki/concepts/tfn.md",
-    "wiki/entities/veolia.md",
-    "wiki/entities/津膜科技.md",
-    "wiki/entities/menachem-elimelech.md",
+    "concepts/脱盐率.md",
+    "wiki/sources/260528海水淡化基础.md",
     "wiki/schema/config.md",
-    "wiki/entities/苏州大学.md",
-    "wiki/entities/南开大学.md",
-    "wiki/entities/哈工大.md",
-    "wiki/entities/青岛科技大学.md",
-    "wiki/entities/盐城环保科技城.md",
-    "wiki/entities/苏州纳米城.md",
-    "wiki/entities/碧水源.md",
-    "wiki/entities/toray.md",
-    "wiki/entities/hydranautics.md",
-    "wiki/entities/时代沃顿.md",
-    "wiki/entities/陈向荣.md",
-    "wiki/entities/盐城.md",
+    "wiki/concepts/氯耐受菌.md",
+    "Pasted image 20260608095853.png",
+    "wiki/entities/高从堦.md",
+    "wiki/entities/dupont.md",
+    "wiki/entities/iso-23070.md",
+    "wiki/entities/lg-chem.md",
     "wiki/entities/清华苏州环境创新研究院.md",
-    "wiki/entities/马军.md",
-    "wiki/entities/靳健.md",
+    "wiki/entities/盐城.md",
+    "wiki/entities/净膜新材料河北省有限公司.md",
+    "wiki/entities/海兴电力科技股份有限公司.md",
+    "wiki/entities/杭州水处理技术研究开发中心.md",
+    "wiki/entities/沧州研究院.md",
+    "wiki/entities/沧州工苑新型膜材料有限公司.md",
+    "wiki/entities/渤海.md",
+    "wiki/entities/青岛10万m³d淡化水掺混工程.md",
+    "wiki/entities/海派特膜科技河北有限公司.md",
+    "wiki/entities/苏山岛海水淡化生活供水示范工程.md",
+    "wiki/concepts/超滤截留分子量.md",
+    "wiki/entities/陶氏.md",
+    "wiki/entities/王海辉.md",
+    "wiki/entities/曲良体.md",
+    "wiki/entities/舟山.md",
+    "wiki/concepts/2d-mof纳米片.md",
+    "wiki/entities/王琳.md",
     "concepts",
     "wiki/schema",
     "wiki/sources",
@@ -307,7 +308,6 @@
     "wiki",
     "DesalWiki",
     "Untitled",
-    "Pasted image 20260608095853.png",
     "Pasted image 20260512094122.png",
     "Pasted image 20260506191156.png",
     "markitdown-output/tmp_1778065631093_Corporate_Finance_Deck_Apr-26_v2-APSTC.pptx",
