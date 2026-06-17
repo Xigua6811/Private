@@ -15,6 +15,14 @@
   "autoTags": "",
   "conversionHistory": [
     {
+      "inputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\tmp_1781681501894________________-___.pdf",
+      "outputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\海水淡化预处理工艺的选择与分析-莫晓媛.md",
+      "timestamp": "2026-06-17T07:31:44.680Z",
+      "success": true,
+      "processingTimeMs": 2775,
+      "imagesExtracted": 0
+    },
+    {
       "inputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\tmp_1781676846389_Kim_-_2017_-_Review_of_Basics_Reverse_Osmosis_Process_Modeling_A_New_Combined_Fouling_Index_Proposed.pdf",
       "outputFile": "C:\\Users\\xwu\\Documents\\Xigua\\markitdown-output\\Kim - 2017 - Review of Basics Reverse Osmosis Process Modeling A New Combined Fouling Index Proposed.md",
       "timestamp": "2026-06-17T06:14:14.656Z",
