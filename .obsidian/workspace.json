@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-PV/260513光伏实验室.md",
+                "file": "wiki/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260513光伏实验室"
+              "title": "index"
             }
           },
           {
@@ -273,8 +273,14 @@
   },
   "active": "e2d072f553710f0e",
   "lastOpenFiles": [
-    "concepts/脱盐率.md",
+    "wiki/sources/260612反渗透膜高校进展.md",
+    "wiki/index.md",
+    "wiki/sources/260612反渗透膜的发展趋势.md",
     "wiki/sources/260528海水淡化基础.md",
+    "markitdown-output/Kim - 2017 - Review of Basics Reverse Osmosis Process Modeling A New Combined Fouling Index Proposed.md",
+    "02-PV/260513光伏实验室.md",
+    "markitdown-output/tmp_1781676846389_Kim_-_2017_-_Review_of_Basics_Reverse_Osmosis_Process_Modeling_A_New_Combined_Fouling_Index_Proposed.pdf",
+    "concepts/脱盐率.md",
     "wiki/schema/config.md",
     "wiki/concepts/氯耐受菌.md",
     "Pasted image 20260608095853.png",
@@ -295,11 +301,6 @@
     "wiki/entities/苏山岛海水淡化生活供水示范工程.md",
     "wiki/concepts/超滤截留分子量.md",
     "wiki/entities/陶氏.md",
-    "wiki/entities/王海辉.md",
-    "wiki/entities/曲良体.md",
-    "wiki/entities/舟山.md",
-    "wiki/concepts/2d-mof纳米片.md",
-    "wiki/entities/王琳.md",
     "concepts",
     "wiki/schema",
     "wiki/sources",
@@ -311,7 +312,6 @@
     "Pasted image 20260512094122.png",
     "Pasted image 20260506191156.png",
     "markitdown-output/tmp_1778065631093_Corporate_Finance_Deck_Apr-26_v2-APSTC.pptx",
-    "Untitled 1.base",
     "Pasted image 20260402171606.png"
   ]
 }

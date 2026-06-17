@@ -24,7 +24,7 @@
   "autoWatchDebounceMs": 5000,
   "watchedFolders": [],
   "periodicLint": "off",
-  "startupCheck": true,
+  "startupCheck": false,
   "pageGenerationConcurrency": 3,
   "batchDelayMs": 500,
   "lastOfferedQueryHash": "",
