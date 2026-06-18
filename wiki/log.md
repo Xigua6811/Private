@@ -32,3 +32,27 @@
 
 **更新页面**：
 
+
+
+## [2026-06-18] ingest | 反渗透海水淡化预处理技术：原理、工艺与工程应用系统性综述
+
+**创建页面**：[[sources/260617预处理调研.md]], [[entities/青岛百发海水淡化项目.md]], [[entities/taweelah海水淡化项目.md]], [[entities/连云港开山岛海水淡化项目.md]], [[entities/无.md]], [[entities/ashkelon海水淡化项目.md]], [[entities/华能玉环电厂海水淡化项目.md]], [[entities/sorek海水淡化项目.md]], [[entities/新加坡tuas海水淡化项目.md]], [[entities/河北丰丰海基海水淡化项目.md]], [[entities/天津大港海水淡化项目.md]], [[entities/曹妃甸北控阿科凌海水淡化项目.md]], [[concepts/预处理海水淡化.md]], [[concepts/混凝.md]], [[concepts/sdi淤泥密度指数.md]], [[concepts/絮凝.md]], [[concepts/介质过滤.md]], [[concepts/气浮daf.md]], [[concepts/超滤微滤ufmf.md]], [[concepts/浅池理论.md]], [[concepts/亨利定律.md]], [[concepts/斯托克斯定律.md]], [[concepts/陶瓷膜.md]], [[concepts/铁盐混凝剂.md]], [[concepts/铝盐混凝剂.md]], [[concepts/水母暴发.md]], [[concepts/双介质过滤.md]], [[concepts/全流过滤-vs-错流过滤.md]], [[concepts/网格絮凝池.md]], [[concepts/接触絮凝.md]], [[concepts/生物污堵.md]], [[concepts/高密度沉淀池.md]], [[concepts/保安过滤器.md]], [[concepts/v型滤池.md]], [[concepts/连续膜过滤cmf.md]], [[concepts/气浮daf.md]], [[concepts/钛盐混凝剂.md]], [[concepts/超滤微滤ufmf.md]], [[concepts/平流沉淀池.md]], [[concepts/斜板管沉淀池.md]], [[concepts/内压式过滤中空纤维膜.md]], [[concepts/压力式过滤.md]], [[concepts/v型滤池.md]], [[concepts/pvdf聚偏氟乙烯.md]], [[concepts/外压式过滤中空纤维膜.md]], [[concepts/pes聚醚砜.md]], [[concepts/脱硼膜.md]], [[concepts/可同化有机碳aoc.md]], [[concepts/颗粒活性炭gac生物过滤.md]], [[concepts/螺旋絮凝.md]]
+
+**更新页面**：
+
+
+
+## [2026-06-18] ingest | 海水淡化/复杂水质预处理膜法工艺优化讨论
+
+**创建页面**：[[sources/260416津膜拜访apr-16.md]], [[entities/王旭.md]], [[entities/吕晓龙.md]], [[entities/天津新泉中试项目.md]], [[entities/20纳米超滤膜.md]], [[entities/青岛百发海水淡化项目.md]], [[entities/中空纤维纳滤膜.md]], [[concepts/超滤微滤ufmf.md]], [[concepts/界面聚合+.md]], [[concepts/短流程超短流程.md]], [[concepts/陶瓷膜.md]], [[concepts/气液界面剪切与萃取作用.md]], [[concepts/反渗透.md]], [[concepts/纳滤.md]], [[concepts/预处理海水淡化.md]], [[concepts/膜通量.md]], [[concepts/曝气能耗.md]], [[concepts/膜污染.md]]
+
+**更新页面**：[[陶瓷膜]]
+
+
+
+## [2026-06-18] ingest | ACWA Power与中国膜公司技术评估会议纪要
+
+**创建页面**：[[sources/260424华信膜视频会.md]], [[entities/acwa-power.md]], [[entities/北京纳米技术公司.md]], [[entities/清华大学.md]], [[entities/dupont.md]], [[entities/toray.md]], [[entities/反渗透膜.md]], [[entities/山东济宁制造基地.md]], [[entities/acwa-创新中心-costa.md]], [[concepts/盐截留率.md]], [[concepts/低压降-low-δp.md]], [[concepts/零液体排放-zld.md]], [[concepts/抗污染性.md]], [[concepts/海水淡化.md]], [[concepts/工业废水处理.md]], [[concepts/投影与设计软件.md]], [[concepts/现场试验-field-pilot.md]], [[concepts/cip.md]], [[concepts/性能衰减.md]], [[concepts/长期稳定性.md]], [[concepts/机械完整性.md]]
+
+**更新页面**：[[toray]]
+
