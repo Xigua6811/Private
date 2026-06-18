@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Desal/260417大港新泉海淡厂.md",
+                "file": "wiki/sources/260617预处理调研.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260417大港新泉海淡厂"
+              "title": "260617预处理调研"
             }
           }
         ],
@@ -271,8 +271,17 @@
       "karpathywiki:Ingest current file": false
     }
   },
-  "active": "d7fe6912514880c0",
+  "active": "3419f3c83f3545c5",
   "lastOpenFiles": [
+    "concepts/抗污染/抗结垢能力.md",
+    "wiki/entities/北京纳米技术公司.md",
+    "concepts/抗污染",
+    "wiki/entities/净膜新材料河北省有限公司.md",
+    "wiki/entities/veolia.md",
+    "wiki/entities/碧水源.md",
+    "wiki/entities/sorek海水淡化项目.md",
+    "wiki/entities/taweelah海水淡化项目.md",
+    "01-Desal/260417大港新泉海淡厂.md",
     "wiki/concepts/产能不匹配.md",
     "wiki/concepts/7用1备设计.md",
     "wiki/concepts/自动化.md",
@@ -284,7 +293,6 @@
     "wiki/entities/海淡所.md",
     "wiki/sources/260417大港新泉海淡厂.md",
     "01-Desal/260416津膜拜访Apr 16.md",
-    "01-Desal/260417大港新泉海淡厂.md",
     "wiki/entities/中空纤维纳滤膜.md",
     "wiki/concepts/机械完整性.md",
     "wiki/concepts/长期稳定性.md",
@@ -292,13 +300,6 @@
     "wiki/concepts/cip.md",
     "wiki/concepts/现场试验-field-pilot.md",
     "wiki/entities/中国科学院过程工程研究所.md",
-    "wiki/entities/toray.md",
-    "wiki/entities/lg-chem.md",
-    "wiki/concepts/投影与设计软件.md",
-    "wiki/concepts/工业废水处理.md",
-    "wiki/entities/iso-23070.md",
-    "wiki/entities/cqc.md",
-    "wiki/concepts/海水淡化.md",
     "concepts/超滤/微滤（UF",
     "concepts/超滤",
     "markitdown-output/tmp_1781681501894________________-___.pdf",
@@ -309,7 +310,6 @@
     "wiki/sources",
     "wiki/concepts",
     "wiki/entities",
-    "wiki",
     "Pasted image 20260512094122.png",
     "Pasted image 20260506191156.png",
     "Pasted image 20260402171606.png"
