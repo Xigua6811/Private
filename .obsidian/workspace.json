@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/260617预处理调研.md",
+                "file": "01-Desal/260528海水淡化基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260617预处理调研"
+              "title": "260528海水淡化基础"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PAM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,21 +242,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MM of Thomas Mar 31.md",
+                "file": "01-Desal/260528海水淡化基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MM of Thomas Mar 31"
+              "title": "Outline of 260528海水淡化基础"
+            }
+          },
+          {
+            "id": "31b69ec30fea851c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,33 +284,33 @@
   },
   "active": "3419f3c83f3545c5",
   "lastOpenFiles": [
+    "wiki/concepts/气浮daf.md",
+    "wiki/entities/曹妃甸北控阿科凌海水淡化项目.md",
+    "wiki/entities/新加坡tuas海水淡化项目.md",
+    "wiki/entities/天津新泉中试项目.md",
+    "wiki/entities/津膜科技.md",
+    "wiki/entities/河北丰丰海基海水淡化项目.md",
+    "wiki/entities/天津市膜科学与海水淡化技术重点实验室.md",
+    "wiki/entities/天津大港海水淡化项目.md",
+    "wiki/entities/taweelah海水淡化项目.md",
+    "wiki/entities/sorek海水淡化项目.md",
+    "wiki/schema/config.md",
+    "01-Desal/260617预处理调研.md",
+    "01-Desal/260522海淡预处理及联合实验室申报.md",
+    "concepts/悬浮固体.md",
+    "wiki/entities/中国海洋大学.md",
+    "01-Desal/260528海水淡化基础.md",
+    "wiki/sources/260528海水淡化基础.md",
+    "wiki/sources/260617预处理调研.md",
     "concepts/抗污染/抗结垢能力.md",
     "wiki/entities/北京纳米技术公司.md",
     "concepts/抗污染",
     "wiki/entities/净膜新材料河北省有限公司.md",
     "wiki/entities/veolia.md",
     "wiki/entities/碧水源.md",
-    "wiki/entities/sorek海水淡化项目.md",
-    "wiki/entities/taweelah海水淡化项目.md",
     "01-Desal/260417大港新泉海淡厂.md",
     "wiki/concepts/产能不匹配.md",
     "wiki/concepts/7用1备设计.md",
-    "wiki/concepts/自动化.md",
-    "wiki/concepts/在线监测.md",
-    "wiki/concepts/海水淡化电耗.md",
-    "wiki/concepts/ro回收率.md",
-    "wiki/entities/海南集装箱集成式水处理装置.md",
-    "wiki/entities/高压泵.md",
-    "wiki/entities/海淡所.md",
-    "wiki/sources/260417大港新泉海淡厂.md",
-    "01-Desal/260416津膜拜访Apr 16.md",
-    "wiki/entities/中空纤维纳滤膜.md",
-    "wiki/concepts/机械完整性.md",
-    "wiki/concepts/长期稳定性.md",
-    "wiki/concepts/性能衰减.md",
-    "wiki/concepts/cip.md",
-    "wiki/concepts/现场试验-field-pilot.md",
-    "wiki/entities/中国科学院过程工程研究所.md",
     "concepts/超滤/微滤（UF",
     "concepts/超滤",
     "markitdown-output/tmp_1781681501894________________-___.pdf",
