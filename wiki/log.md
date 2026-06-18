@@ -24,3 +24,11 @@
 
 **更新页面**：
 
+
+
+## [2026-06-18] ingest | 光伏清扫机器人制造工厂与实验室介绍
+
+**创建页面**：[[sources/260527蓝旭机器人参观.md]], [[entities/分布式光伏清扫机器人.md]], [[entities/龙门式清扫机器人.md]], [[entities/干挂式跟踪支架清扫机器人.md]], [[entities/沙特吉达.md]], [[entities/tüv.md]], [[entities/光伏组件安装机器人.md]], [[entities/黄总.md]], [[entities/自建新园区.md]], [[entities/cqc.md]], [[entities/电动组装车间.md]], [[concepts/场景化验证.md]], [[concepts/全流程品控.md]], [[concepts/标准编制.md]], [[concepts/智能运维系统.md]], [[concepts/纯视觉导航.md]], [[concepts/快速纠偏.md]], [[concepts/支架角度联动检测.md]], [[concepts/海外适配.md]], [[concepts/全数据化管控.md]], [[concepts/批量化交付能力.md]], [[concepts/高在线率.md]], [[concepts/清洁率.md]]
+
+**更新页面**：
+
