@@ -6,6 +6,9 @@
 
 ## 实体
 
+- [[entities/海南集装箱集成式水处理装置|海南集装箱集成式水处理装置]] `aliases: 集装箱集成式水处理, 海南集装箱式水处理` - type: entity
+- [[entities/高压泵|高压泵]] `aliases: 高压水泵, 高压渗透泵, High Pressure Pump` - type: entity
+- [[entities/海淡所|海淡所]] `aliases: 海水淡化研究所, 自然资源部天津海水淡化与综合利用研究所, 天津海淡所` - type: entity
 - [[entities/acwa-创新中心-costa|acwa-创新中心-costa]] `aliases: Kaust创新中心, ACWA Costa中心, ACWA Innovation Center (Costa)` - type: entity
 - [[entities/山东济宁制造基地|山东济宁制造基地]] `aliases: 济宁工厂, 山东工厂` - type: entity
 - [[entities/反渗透膜|反渗透膜]] `aliases: RO膜, reverse osmosis membrane, 华信膜` - type: entity
@@ -17,7 +20,7 @@
 - [[entities/吕晓龙|吕晓龙]] `aliases: 吕教授, CTO吕晓龙, Lv Xiaolong` - type: entity
 - [[entities/王旭|王旭]] `aliases: Wang Xu, 王旭高级工程师` - type: entity
 - [[entities/曹妃甸北控阿科凌海水淡化项目|曹妃甸北控阿科凌海水淡化项目]] `aliases: 北控阿科凌, 曹妃甸海水淡化厂, Caofeidian Beikong Arco Ling SWRO` - type: entity
-- [[entities/天津大港海水淡化项目|天津大港海水淡化项目]] `aliases: 天津大港二期, 大港海水淡化厂, 大港二期海淡项目` - type: entity
+- [[entities/天津大港海水淡化项目|天津大港海水淡化项目]] `aliases: 天津大港二期, 大港海水淡化厂, 大港二期海淡项目, 天津大港电厂, 天津大港二期, 大港海水淡化厂, 大港二期海淡项目` - type: entity
 - [[entities/河北丰丰海基海水淡化项目|河北丰丰海基海水淡化项目]] `aliases: 河北丰丰海基, 唐山丰丰海基, Fengfeng Haiji Desalination Project` - type: entity
 - [[entities/新加坡tuas海水淡化项目|新加坡tuas海水淡化项目]] `aliases: 新加坡Tuas一期, Tuas SWRO Plant, 新加坡大士海水淡化项目` - type: entity
 - [[entities/sorek海水淡化项目|sorek海水淡化项目]] `aliases: Sorek SWRO Plant, 索雷科海水淡化厂` - type: entity
@@ -125,10 +128,16 @@
 
 ## 概念
 
+- [[concepts/产能不匹配|产能不匹配]] `aliases: 供需不匹配, 设计产能与实际不符` - type: concept
+- [[concepts/7用1备设计|7用1备设计]] `aliases: 七用一备, 7+1备用配置, 7用1备` - type: concept
+- [[concepts/自动化|自动化]] `aliases: 自动控制, 水处理自动化` - type: concept
+- [[concepts/在线监测|在线监测]] `aliases: 在线检测, Online Monitoring` - type: concept
+- [[concepts/海水淡化电耗|海水淡化电耗]] `aliases: 电耗指标, 单位能耗, 海水淡化单位电耗` - type: concept
+- [[concepts/ro回收率|ro回收率]] `aliases: 反渗透回收率, 系统回收率, RO Recovery Rate` - type: concept
 - [[concepts/机械完整性|机械完整性]] `aliases: mechanical integrity, 机械强度` - type: concept
 - [[concepts/长期稳定性|长期稳定性]] `aliases: 长期运行稳定性, 长期性能稳定性, Long-term stability` - type: concept
 - [[concepts/性能衰减|性能衰减]] `aliases: 性能下降, 性能衰退, Performance Degradation` - type: concept
-- [[concepts/cip|cip]] `aliases: CIP清洗, 在线清洗, clean-in-place` - type: concept
+- [[concepts/cip|cip]] `aliases: CIP清洗, 在线清洗, clean-in-place, CIP反洗, CIP清洗, 在线清洗, clean-in-place` - type: concept
 - [[concepts/现场试验-field-pilot|现场试验-field-pilot]] `aliases: 现场中试, Field Pilot, 现场试点` - type: concept
 - [[concepts/投影与设计软件|投影与设计软件]] `aliases: Projection Software, 膜选型投影软件, 设计软件` - type: concept
 - [[concepts/工业废水处理|工业废水处理]] `aliases: 工业污水处理, industrial wastewater treatment, 工业废水净化` - type: concept
@@ -140,7 +149,7 @@
 - [[concepts/曝气能耗|曝气能耗]] `aliases: 曝气功耗, Aeration Energy Consumption` - type: concept
 - [[concepts/膜通量|膜通量]] `aliases: 通量, 透水量, membrane flux` - type: concept
 - [[concepts/纳滤|纳滤]] `aliases: NF, 纳滤膜, Nanofiltration` - type: concept
-- [[concepts/反渗透|反渗透]] `aliases: RO, Reverse Osmosis, 反渗透技术` - type: concept
+- [[concepts/反渗透|反渗透]] `aliases: RO, Reverse Osmosis, 反渗透技术, 反渗透（RO）, RO, Reverse Osmosis, 反渗透技术` - type: concept
 - [[concepts/气液界面剪切与萃取作用|气液界面剪切与萃取作用]] `aliases: 气液剪切与夹带剥离, Gas-liquid interfacial shear and extraction` - type: concept
 - [[concepts/短流程超短流程|短流程超短流程]] `aliases: 超短流程, Short/Super-Short Pretreatment Process` - type: concept
 - [[concepts/螺旋絮凝|螺旋絮凝]] `aliases: 螺旋絮凝池, Spiral Flocculation` - type: concept
@@ -170,12 +179,12 @@
 - [[concepts/斯托克斯定律|斯托克斯定律]] `aliases: Stokes定律, Stokes Law` - type: concept
 - [[concepts/亨利定律|亨利定律]] `aliases: Henry's Law, 亨利气体溶解定律` - type: concept
 - [[concepts/浅池理论|浅池理论]] `aliases: 浅层沉淀理论, 浅池原理` - type: concept
-- [[concepts/超滤微滤ufmf|超滤微滤ufmf]] `aliases: 膜法预处理, UF, MF, 跨膜压差（TMP）, 膜法预处理, UF, MF, 浸没式超滤, 膜法预处理, UF, MF, 跨膜压差（TMP）, 膜法预处理, UF, MF` - type: concept
+- [[concepts/超滤微滤ufmf|超滤微滤ufmf]] `aliases: 膜法预处理, UF, MF, 跨膜压差（TMP）, 膜法预处理, UF, MF, 浸没式超滤, 膜法预处理, UF, MF, 跨膜压差（TMP）, 膜法预处理, UF, MF, 超滤（UF）, 膜法预处理, UF, MF, 跨膜压差（TMP）, 膜法预处理, UF, MF, 浸没式超滤, 膜法预处理, UF, MF, 跨膜压差（TMP）, 膜法预处理, UF, MF` - type: concept
 - [[concepts/气浮daf|气浮daf]] `aliases: 溶气气浮, Dissolved Air Flotation, DAF, 赤潮, 溶气气浮, Dissolved Air Flotation, DAF` - type: concept
-- [[concepts/介质过滤|介质过滤]] `aliases: 深层过滤, 砂滤, Media Filtration` - type: concept
+- [[concepts/介质过滤|介质过滤]] `aliases: 深层过滤, 砂滤, Media Filtration, 沙滤, 深层过滤, 砂滤, Media Filtration` - type: concept
 - [[concepts/絮凝|絮凝]] `aliases: Flocculation, 混凝第二阶段` - type: concept
 - [[concepts/sdi淤泥密度指数|sdi淤泥密度指数]] `aliases: SDI15, 淤泥密度指数, Silt Density Index` - type: concept
-- [[concepts/混凝|混凝]] `aliases: Coagulation, 化学混凝` - type: concept
+- [[concepts/混凝|混凝]] `aliases: Coagulation, 化学混凝, 混凝沉淀, Coagulation, 化学混凝` - type: concept
 - [[concepts/预处理海水淡化|预处理海水淡化]] `aliases: 海水预处理, RO预处理, Seawater Pretreatment, 传统海水预处理流程, 海水预处理, RO预处理, Seawater Pretreatment` - type: concept
 - [[concepts/高在线率|高在线率]] `aliases: 设备在线率, operational availability rate, 在线率, 设备在线率, operational availability rate` - type: concept
 - [[concepts/超滤截留分子量|超滤截留分子量]] `aliases: UF截留分子量, 超滤的分子量截留` - type: concept
@@ -237,6 +246,7 @@
 
 ## 来源
 
+- [[sources/260417大港新泉海淡厂|260417大港新泉海淡厂]] `aliases: 大港新泉海淡厂工艺讨论会纪要, 天津大港电厂水处理讨论纪要`
 - [[sources/260424华信膜视频会|260424华信膜视频会]] `aliases: ACWA Power与中国膜公司技术评估会议纪要, ACWA Power膜技术评估会`
 - [[sources/260416津膜拜访apr-16|260416津膜拜访apr-16]] `aliases: 海水淡化膜法工艺优化讨论, 津膜拜访记录`
 - [[sources/260617预处理调研|260617预处理调研]] `aliases: 260617海水淡化预处理调研, RO海水淡化预处理技术综述`
