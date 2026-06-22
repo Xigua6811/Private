@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260622AEM电解文献.md",
+                "file": "260622PEM电解文献.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260622AEM电解文献"
+              "title": "260622PEM电解文献"
             }
           },
           {
@@ -269,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260622AEM电解文献.md",
-                "followCursor": true,
+                "file": "260622PEM电解文献.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 260622AEM电解文献"
+              "title": "Outline of 260622PEM电解文献"
             }
           },
           {
@@ -309,10 +309,10 @@
       "karpathywiki:Ingest current file": false
     }
   },
-  "active": "1be751a3bc3fc76d",
+  "active": "5ad520b57f7e3131",
   "lastOpenFiles": [
     "04-Hydrogen/260622海水电解文献.md",
-    "260622AEM电解文献.md",
+    "260622PEM电解文献.md",
     "04-Hydrogen/260522碱性电解文献.md",
     "Pasted image 20260622160109.png",
     "Pasted image 20260608095853.png",
