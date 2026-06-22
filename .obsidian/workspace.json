@@ -39,12 +39,14 @@
             "id": "649e38181a288d28",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260622160109.png"
+                "file": "04-Hydrogen/260522ELectrolyser Basic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260622160109"
+              "icon": "lucide-file",
+              "title": "260522ELectrolyser Basic"
             }
           },
           {
@@ -239,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20260622160109.png",
+                "file": "04-Hydrogen/260522ELectrolyser Basic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260622160109"
+              "title": "Outline of 260522ELectrolyser Basic"
             }
           },
           {
@@ -281,9 +283,9 @@
   },
   "active": "649e38181a288d28",
   "lastOpenFiles": [
+    "Pasted image 20260622160109.png",
     "04-Hydrogen/260522ELectrolyser Basic.md",
     "Pasted image 20260608095853.png",
-    "Pasted image 20260622160109.png",
     "06-Management/Budget and Cost.md",
     "01-Desal/260617预处理调研.md",
     "wiki/sources/260617预处理调研.md",
