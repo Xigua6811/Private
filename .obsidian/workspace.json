@@ -92,6 +92,20 @@
             }
           },
           {
+            "id": "f15630c09d4f42f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "260623国内AEM研究情况.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260623国内AEM研究情况"
+            }
+          },
+          {
             "id": "be98466533c59485",
             "type": "leaf",
             "state": {
@@ -148,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -283,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260622PEM电解文献.md",
+                "file": "260623国内AEM研究情况.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 260622PEM电解文献"
+              "title": "Outline of 260623国内AEM研究情况"
             }
           },
           {
@@ -322,11 +336,12 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "9592d236e754773e",
+  "active": "f15630c09d4f42f2",
   "lastOpenFiles": [
+    "260622PEM电解文献.md",
+    "260623国内AEM研究情况.md",
     "260623AEM电解文献.md",
     "04-Hydrogen/260522碱性电解文献.md",
-    "260622PEM电解文献.md",
     "wiki/log.md",
     "wiki/index.md",
     "wiki/sources/260416津膜拜访apr-16.md",
@@ -351,7 +366,6 @@
     "Pasted image 20260608095853.png",
     "06-Management/Budget and Cost.md",
     "01-Desal/260617预处理调研.md",
-    "wiki/sources/260617预处理调研.md",
     "Untitled.base",
     "concepts/抗污染",
     "concepts/超滤/微滤（UF",
