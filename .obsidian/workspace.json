@@ -109,12 +109,14 @@
             "id": "be98466533c59485",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260608095853.png"
+                "file": "260623碱性电解槽的结构.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260608095853"
+              "icon": "lucide-file",
+              "title": "260623碱性电解槽的结构"
             }
           },
           {
@@ -295,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20260608095853.png",
+                "file": "260623碱性电解槽的结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260608095853"
+              "title": "Outline of 260623碱性电解槽的结构"
             }
           },
           {
@@ -336,9 +338,9 @@
   },
   "active": "be98466533c59485",
   "lastOpenFiles": [
-    "Pasted image 20260622160109.png",
     "Pasted image 20260608095853.png",
-    "Untitled 1.md",
+    "Pasted image 20260622160109.png",
+    "260623碱性电解槽的结构.md",
     "Untitled.md",
     "Untitled.base",
     "04-Hydrogen/260522碱性电解文献.md",
