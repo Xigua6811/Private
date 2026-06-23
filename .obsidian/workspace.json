@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260623国内AEM研究情况.md",
+                "file": "260623AEM电解文献.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260623国内AEM研究情况"
+              "title": "260623AEM电解文献"
             }
           },
           {
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260623国内AEM研究情况.md",
+                "file": "260623AEM电解文献.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 260623国内AEM研究情况"
+              "title": "Outline of 260623AEM电解文献"
             }
           },
           {
@@ -339,7 +339,7 @@
   "active": "f15630c09d4f42f2",
   "lastOpenFiles": [
     "260622PEM电解文献.md",
-    "260623国内AEM研究情况.md",
+    "04-Hydrogen/260623国内AEM研究情况.md",
     "260623AEM电解文献.md",
     "04-Hydrogen/260522碱性电解文献.md",
     "wiki/log.md",
