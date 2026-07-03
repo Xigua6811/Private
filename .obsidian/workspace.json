@@ -25,10 +25,14 @@
             "id": "08fb1f787bd38350",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06-Management/Budget and Cost.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Budget and Cost"
             }
           }
         ],
@@ -167,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "06-Management/Budget and Cost.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Budget and Cost"
             }
           },
           {
