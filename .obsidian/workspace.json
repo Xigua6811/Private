@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e7339e369bd99723",
+        "id": "1a638eb4af1d1da2",
         "type": "tabs",
         "children": [
           {
-            "id": "d6c0d055a5226417",
+            "id": "ec8116371bc668a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To do list.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To do list"
-            }
-          },
-          {
-            "id": "08fb1f787bd38350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Hydrogen/260622PEM电解文献.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260622PEM电解文献"
-            }
-          },
-          {
-            "id": "68f3d68e7ee0754a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Hydrogen/260513浙大海水电解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260513浙大海水电解"
-            }
-          },
-          {
-            "id": "b036a16c50dd5be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Desal/260716海水淡化中国学者.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "260716海水淡化中国学者"
-            }
-          },
-          {
-            "id": "d82d432cdd5bd2ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Hydrogen/270721撬装甲醇讨论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "270721撬装甲醇讨论"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Hydrogen/270721撬装甲醇讨论.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 270721撬装甲醇讨论"
+              "title": "Outline"
             }
           },
           {
@@ -252,22 +190,24 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "d82d432cdd5bd2ae",
+  "active": "ec8116371bc668a8",
   "lastOpenFiles": [
+    "To do list.md",
+    "04-Hydrogen/260622PEM电解文献.md",
+    "04-Hydrogen/260513浙大海水电解.md",
+    "01-Desal/260716海水淡化中国学者.md",
+    "04-Hydrogen/270721撬装甲醇讨论.md",
     "01-Desal/260724天工大胡云霞拜访.md",
     "01-Desal/260617预处理调研.md",
     "01-Desal/260626预处理中试平台讨论.md",
     "01-Desal/260702反渗透膜供应商.md",
     "01-Desal/260702超滤膜调研.md",
-    "01-Desal/260716海水淡化中国学者.md",
     "01-Desal/260721普希膜拜访.md",
     "01-Desal/260723鼎澈膜拜访.md",
-    "04-Hydrogen/270721撬装甲醇讨论.md",
     "04-Hydrogen/270720佑赛科技来访.md",
     "Pasted image 20260608095853.png",
     "04-Hydrogen/260519明拓SAF合作.md",
     "04-Hydrogen/260522碱性电解文献.md",
-    "04-Hydrogen/260622PEM电解文献.md",
     "04-Hydrogen/260622海水电解文献.md",
     "04-Hydrogen/260623AEM电解文献.md",
     "04-Hydrogen/260623国内AEM研究情况.md",
@@ -278,9 +218,7 @@
     "04-Hydrogen/260716氢鸾科技拜访.md",
     "03-Wind/260430中科启航对接.md",
     "03-Wind/260416协和新能源拜访Apr 16.md",
-    "04-Hydrogen/260513浙大海水电解.md",
     "01-Desal/260612反渗透膜高校进展.md",
-    "01-Desal/260612反渗透膜的发展趋势.md",
     "entities",
     "Untitled.base",
     "Pasted image 20260622160109.png",
