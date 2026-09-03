@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260902电解槽加速测试讨论.md",
+                "file": "01-Desal/260810中国预处理平台讨论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260902电解槽加速测试讨论"
+              "title": "260810中国预处理平台讨论"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260902电解槽加速测试讨论.md",
+                "file": "01-Desal/260810中国预处理平台讨论.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -228,8 +228,8 @@
   },
   "active": "1e158b0ed7131f50",
   "lastOpenFiles": [
-    "260901钒液流电池基础知识.md",
     "260902电解槽加速测试讨论.md",
+    "260901钒液流电池基础知识.md",
     "260902电解槽加速测试讨论 1.md",
     "OB更新方法.md",
     "Pasted image 20260901161918.png",
