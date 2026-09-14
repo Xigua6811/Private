@@ -181,16 +181,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "260908.md",
+                "file": "260908高温电解槽线上讨论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260908"
+              "title": "260908高温电解槽线上讨论"
+            }
+          },
+          {
+            "id": "acfe82a67a58849e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "260907南京久吾高科对接.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260907南京久吾高科对接"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -327,7 +341,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "260908.md",
+                "file": "260907南京久吾高科对接.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -366,10 +380,11 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "1569ec7052337928",
+  "active": "acfe82a67a58849e",
   "lastOpenFiles": [
+    "260908高温电解槽线上讨论.md",
+    "260907南京久吾高科对接.md",
     "05-Energy Storage/260908纬景储能线上对接.md",
-    "260908.md",
     "06-Management/260416Project Code.md",
     "04-Hydrogen/260720佑赛科技来访.md",
     "04-Hydrogen/260716氢鸾科技拜访.md",
@@ -396,7 +411,6 @@
     "wiki/concepts/2d-mof纳米片.md",
     "01-Desal/260805MOF空气取水技术.md",
     "04-Hydrogen/260622PEM电解文献.md",
-    "04-Hydrogen/260522碱性电解文献.md",
     "entities",
     "Untitled.base",
     "concepts/抗污染",
