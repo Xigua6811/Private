@@ -167,16 +167,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Management/260416Project Code.md",
+                "file": "05-Energy Storage/260908纬景储能线上对接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260416Project Code"
+              "title": "260908纬景储能线上对接"
+            }
+          },
+          {
+            "id": "1569ec7052337928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "260908.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260908"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -313,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Management/260416Project Code.md",
+                "file": "260908.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -352,9 +366,11 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "ee2ea2083291f740",
+  "active": "1569ec7052337928",
   "lastOpenFiles": [
     "05-Energy Storage/260908纬景储能线上对接.md",
+    "260908.md",
+    "06-Management/260416Project Code.md",
     "04-Hydrogen/260720佑赛科技来访.md",
     "04-Hydrogen/260716氢鸾科技拜访.md",
     "04-Hydrogen/260721撬装甲醇讨论.md",
@@ -381,8 +397,6 @@
     "01-Desal/260805MOF空气取水技术.md",
     "04-Hydrogen/260622PEM电解文献.md",
     "04-Hydrogen/260522碱性电解文献.md",
-    "04-Hydrogen/260623AEM电解文献.md",
-    "04-Hydrogen/260715甲醇合成基础知识.md",
     "entities",
     "Untitled.base",
     "concepts/抗污染",
