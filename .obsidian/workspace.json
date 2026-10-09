@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "08-General/LCOA计算逻辑_按代码执行顺序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "LCOA计算逻辑_按代码执行顺序"
+            }
+          },
+          {
+            "id": "635e89024f5f914f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "260923北师大黄浩勇对接.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "260923北师大黄浩勇对接"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "260923北师大黄浩勇对接.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -197,9 +212,11 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "450d9985d7fbe553",
+  "active": "635e89024f5f914f",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "260923北师大黄浩勇对接.md",
+    "08-General/LCOA计算逻辑_按代码执行顺序.md",
+    "04-Hydrogen/260923德国MR公司调压开关交流.md",
     "05-Energy Storage/260428清华云储交流.md",
     "05-Energy Storage/260901钒液流电池基础知识.md",
     "01-Desal/260810中国预处理平台讨论.md",
@@ -223,8 +240,6 @@
     "04-Hydrogen/260716氢鸾科技拜访.md",
     "04-Hydrogen/260721撬装甲醇讨论.md",
     "01-Desal/260810ACWAsim海淡平台.md",
-    "01-Desal/260810Kaust实验室参观.md",
-    "04-Hydrogen/260625国内ALK研究情况.md",
     "Pasted image 20260901161918.png",
     "Pasted image 20260622160109.png",
     "Pasted image 20260608095853.png",
