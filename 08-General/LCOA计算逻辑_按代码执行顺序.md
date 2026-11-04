@@ -144,12 +144,12 @@ LCOA 若启用储氢，当前代码要求：
 
 ### 2.4 制氢、制氨、水和辅助负荷输入
 
-| 输入组 | 关键字段 | 代码使用位置 |
-|---|---|---|
-| 电解槽 | 容量、`min_load_ratio`、SEC 模式/曲线、correction、oversizing、stack degradation/replacement | `src/components/usage_side.py:37-120`；`src/engine/lifecycle_runner.py:71-98, 190-224` |
-| 水 | `water_kg_per_kg_h2`、水单价、water annual/variable OPEX | 物理量记录和财务水成本 |
-| 氨装置 | TPD/KTA、`min_load_ratio`、H2 kg/ton、NH3 power/SEC、N2 kg/ton、ASU power/SEC | `src/components/usage_side.py:122-167` |
-| 辅助负荷 | `fixed_mw`、`ratio_of_electrolyzer_capacity` | `src/components/usage_side.py:17-31`；仅 Priority LCOA 小时平衡实际分配 |
+| 输入组  | 关键字段                                                                              | 代码使用位置                                                                                |
+| ---- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 电解槽  | 容量、`min_load_ratio`、SEC 模式/曲线、correction、oversizing、stack degradation/replacement | `src/components/usage_side.py:37-120`；`src/engine/lifecycle_runner.py:71-98, 190-224` |
+| 水    | `water_kg_per_kg_h2`、水单价、water annual/variable OPEX                               | 物理量记录和财务水成本                                                                           |
+| 氨装置  | TPD/KTA、`min_load_ratio`、H2 kg/ton、NH3 power/SEC、N2 kg/ton、ASU power/SEC          | `src/components/usage_side.py:122-167`                                                |
+| 辅助负荷 | `fixed_mw`、`ratio_of_electrolyzer_capacity`                                       | `src/components/usage_side.py:17-31`；仅 Priority LCOA 小时平衡实际分配                         |
 
 LCOA 选择后，代码自动完成以下依赖：
 
