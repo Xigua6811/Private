@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Hydrogen/260716氢鸾科技拜访.md",
+                "file": "05-Energy Storage/261015中海储能现场对接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260716氢鸾科技拜访"
+              "title": "261015中海储能现场对接"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Hydrogen/260716氢鸾科技拜访.md",
+                "file": "05-Energy Storage/261015中海储能现场对接.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -200,6 +200,7 @@
   },
   "active": "450d9985d7fbe553",
   "lastOpenFiles": [
+    "04-Hydrogen/260716氢鸾科技拜访.md",
     "04-Hydrogen/260623碱性电解槽基础知识.md",
     "04-Hydrogen/260522碱性电解文献.md",
     "08-General/LCOA计算逻辑_按代码执行顺序.md",
@@ -213,7 +214,6 @@
     "04-Hydrogen/260429鉴衡氢能对接.md",
     "04-Hydrogen/260513浙大海水电解.md",
     "04-Hydrogen/260715甲醇合成基础知识.md",
-    "04-Hydrogen/260716氢鸾科技拜访.md",
     "04-Hydrogen/260720佑赛科技来访.md",
     "04-Hydrogen/261023厦大嘉庚实验室线上对接.md",
     "04-Hydrogen/260923德国MR公司调压开关交流.md",
