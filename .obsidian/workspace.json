@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Hydrogen/261023厦大嘉庚实验室线上对接.md",
+                "file": "04-Hydrogen/261104与总部对接氢能研发项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "261023厦大嘉庚实验室线上对接"
+              "title": "261104与总部对接氢能研发项目"
+            }
+          },
+          {
+            "id": "89513cb386a77f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "261105国内新型电解槽技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "261105国内新型电解槽技术"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Hydrogen/261023厦大嘉庚实验室线上对接.md",
+                "file": "261105国内新型电解槽技术.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -213,14 +227,15 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "b8d32ba8c59f327f",
+  "active": "89513cb386a77f1b",
   "lastOpenFiles": [
-    "261104与总部对接氢能研发项目.md",
+    "04-Hydrogen/261104与总部对接氢能研发项目.md",
+    "261105国内新型电解槽技术.md",
+    "04-Hydrogen/261023厦大嘉庚实验室线上对接.md",
     "Pasted image 20260608095853.png",
     "Pasted image 20260622160109.png",
     "Pasted image 20260901161918.png",
     "Pasted image 20261105142450.png",
-    "04-Hydrogen/261023厦大嘉庚实验室线上对接.md",
     "05-Energy Storage/261015中海储能现场对接.md",
     "04-Hydrogen/260716氢鸾科技拜访.md",
     "04-Hydrogen/260623碱性电解槽基础知识.md",
