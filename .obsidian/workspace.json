@@ -182,21 +182,6 @@
             }
           },
           {
-            "id": "5ad520b57f7e3131",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "261105国内新型电解槽技术.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
             "id": "31b69ec30fea851c",
             "type": "leaf",
             "state": {
@@ -205,14 +190,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9a96627b9d9a9262",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "261105国内新型电解槽技术.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +226,7 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "89513cb386a77f1b",
+  "active": "9a96627b9d9a9262",
   "lastOpenFiles": [
     "04-Hydrogen/261104与总部对接氢能研发项目.md",
     "261105国内新型电解槽技术.md",
