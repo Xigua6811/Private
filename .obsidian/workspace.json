@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "261105国内新型电解槽技术.md",
+                "file": "04-Hydrogen/261104与总部对接氢能研发项目.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "261105国内新型电解槽技术"
+              "title": "261104与总部对接氢能研发项目"
             }
           }
         ],
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "261105国内新型电解槽技术.md",
+                "file": "04-Hydrogen/261104与总部对接氢能研发项目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,10 +226,10 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "9a96627b9d9a9262",
+  "active": "89513cb386a77f1b",
   "lastOpenFiles": [
-    "04-Hydrogen/261104与总部对接氢能研发项目.md",
     "261105国内新型电解槽技术.md",
+    "04-Hydrogen/261104与总部对接氢能研发项目.md",
     "04-Hydrogen/261023厦大嘉庚实验室线上对接.md",
     "Pasted image 20260608095853.png",
     "Pasted image 20260622160109.png",
