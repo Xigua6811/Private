@@ -26,7 +26,49 @@ Nov 11, 2026, from Gustavo email
 
 ## 1.2 2027 Budget in Oct, 2026
 
+### 1.2.1 Revenue Analysis
 
-|     |     |
-| --- | --- |
-|     |     |
+|                         |                        | 2027      |
+| ----------------------- | ---------------------- | --------- |
+| **FAT**                 | Project Capacity-MWp   | 5,860     |
+|                         | Unit price/30MWp RMB   | 54,060    |
+|                         | **Revenue M RMB**      | **17.2**  |
+| **Enhanced Test**       | BOMs Quantity          | 4         |
+|                         | Unit price MRMB        | 1.35      |
+|                         | **Revenue M RMB**      | **5.4**   |
+| **TDD**                 | China Project Quantity | 20        |
+|                         | Unit Price RMB         | 280,000   |
+|                         | **Revenue M RMB**      | **5.6**   |
+| **DCT**                 | DCT test Quantity      | 10        |
+|                         | Unit Price RMB         | 100,000   |
+|                         | **Revenue M RMB**      | **1**     |
+| **Total Revenue M RMB** |                        | **29.22** |
+excluding Tax: 29.22/1.06=27.57M RMB
+
+### 1.2.2 Revenue, Cost and Net Income
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+|**CNY'000**||**2027  <br>Rebudget**|**2028  <br>Rebudget**|**2029  <br>Rebudget**|**2030  <br>Rebudget**|**2031  <br>Rebudget**|
+|**>Lab**|||||||
+|**Revenue***||**27,570**|**34,775**|**7,383**|**-**|**-**|
+|**Variable Cost**||**(8,966)**|**(10,049)**|**(5,428)**|**-**|**-**|
+|_Contribution Margin_||_67%_|_71%_|_26%_|||
+|**Fixed Cost**||**(8,292)**|**(7,881)**|**(923)**|**(923)**|**(923)**|
+|**SGnA**||**(2,461)**|**(2,483)**|**(1,908)**|**(1,854)**|**(1,875)**|
+|_Net Margin_||_28%_|_41%_||||
+|**>R&D**|||||||
+|**R&D Cost**||**(9,908)**|**(6,146)**|**(6,351)**|**(6,984)**|**(7,619)**|
+|_Manpower_||_5,928_|_3,121_|_3,183_|_3,247_|_3,312_|
+|_Depreciation and Amortization_||_856_|_850_|_1,320_|_1,890_|_2,460_|
+|_Office Rent_||_638_|_714_|_511_|_511_|_511_|
+|_Travel_||_776_|_776_|_791_|_791_|_791_|
+|_Software license fee_||_550_|_550_|_327_|_327_|_327_|
+|_Staff Training Cost_||_50_|_98_|_98_|_98_|_98_|
+|_Journal and magazines_||_36_|_36_|_36_|_36_|_36_|
+|_Low value items_||_-_|_-_|_84_|_84_|_84_|
+|_R&D expenses_||_1,074_|_-_|_-_|_-_|_-_|
+|**Other Expense-lab close**||**-**|**(8,891)**|**-**|**-**|**-**|
+|**Other Income**||**2,155**|**340**|**334**|**334**|**334**|
+|**Income Tax**||**-**|**-**|**-**|**-**|**-**|
+|**Net Income**||**98**|**(334)**|**(6,893)**|**(9,427)**|**(10,083)**|
