@@ -24,3 +24,9 @@ Nov 11, 2026, from Gustavo email
 | Jiangsu Yancheng Ph. I  | 2026           | 500                | 500                                   | -                                     | -                                     | -                                     |
 | **Summary**             | -              | 33,095             | 3,110                                 | 11,035                                | 14,800                                | 4,150                                 |
 
+## 1.2 2027 Budget in Oct, 2026
+
+
+|     |     |
+| --- | --- |
+|     |     |
