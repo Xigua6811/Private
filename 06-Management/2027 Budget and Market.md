@@ -49,13 +49,9 @@ excluding Tax: 29.22/1.06=27.57M RMB
 
 - 根据3.11GW的2027实际交付量：Revenue of FAT =12.3 M  差距：4.3M RMB
 - 根据2026年的实际TDD: Revenue of TDD = 1.96 M 差距：3.6M RMB
-- 
+- 根据2026年的实际enhanced Test，Revenue of Enhanced = 1.77 M 差距：3.7M RMB
 
-
-
-
-
-
+总体而言，2027年的营收缺口：11.6M RMB
 
 ### 1.2.2 Revenue, Cost and Net Income
 
