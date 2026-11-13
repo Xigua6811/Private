@@ -28,22 +28,34 @@ Nov 11, 2026, from Gustavo email
 
 ### 1.2.1 Revenue Analysis
 
-|                         |                        | 2027      |
-| ----------------------- | ---------------------- | --------- |
-| **FAT**                 | Project Capacity-MWp   | 5,860     |
-|                         | Unit price/30MWp RMB   | 54,060    |
-|                         | **Revenue M RMB**      | **17.2**  |
-| **Enhanced Test**       | BOMs Quantity          | 4         |
-|                         | Unit price MRMB        | 1.35      |
-|                         | **Revenue M RMB**      | **5.4**   |
-| **TDD**                 | China Project Quantity | 20        |
-|                         | Unit Price RMB         | 280,000   |
-|                         | **Revenue M RMB**      | **5.6**   |
-| **DCT**                 | DCT test Quantity      | 10        |
-|                         | Unit Price RMB         | 100,000   |
-|                         | **Revenue M RMB**      | **1**     |
-| **Total Revenue M RMB** |                        | **29.22** |
+|                         |                        | 2027 Tax Including |
+| ----------------------- | ---------------------- | ------------------ |
+| **FAT**                 | Project Capacity-MWp   | 5,860              |
+|                         | Unit price/30MWp RMB   | 54,060             |
+|                         | **Revenue M RMB**      | **17.2**           |
+| **Enhanced Test**       | BOMs Quantity          | 4                  |
+|                         | Unit price MRMB        | 1.35               |
+|                         | **Revenue M RMB**      | **5.4**            |
+| **TDD**                 | China Project Quantity | 20                 |
+|                         | Unit Price RMB         | 280,000            |
+|                         | **Revenue M RMB**      | **5.6**            |
+| **DCT**                 | DCT test Quantity      | 10                 |
+|                         | Unit Price RMB         | 100,000            |
+|                         | **Revenue M RMB**      | **1**              |
+| **Total Revenue M RMB** |                        | **29.22**          |
 excluding Tax: 29.22/1.06=27.57M RMB
+
+
+
+- 根据3.11GW的2027实际交付量：Revenue of FAT =12.3 M  差距：4.3M RMB
+- 根据2026年的实际TDD: Revenue of TDD = 1.96 M 差距：3.6M RMB
+- 
+
+
+
+
+
+
 
 ### 1.2.2 Revenue, Cost and Net Income
 
