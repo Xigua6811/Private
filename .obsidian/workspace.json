@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "2027 Budget and Market"
             }
+          },
+          {
+            "id": "272decf6e5b0f074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -269,11 +283,12 @@
       "markitdown:Convert to Markdown": false
     }
   },
-  "active": "6ad98b2f017da130",
+  "active": "272decf6e5b0f074",
   "lastOpenFiles": [
+    "Untitled 3.md",
+    "06-Management/2027 Budget and Market.md",
     "06-Management/2026 Budget and Cost.md",
     "CIC Introduction.md",
-    "06-Management/2027 Budget and Market.md",
     "Pasted image 20261113113057.png",
     "261113液流电池供应商.md",
     "05-Energy Storage/260901钒液流电池基础知识.md",
